@@ -1,0 +1,54 @@
+1 SNAI2 Snail Family Transcriptional Repressor 2
+2 SNAI1 Snail Family Transcriptional Repressor 1
+3 MCRIP1 MAPK Regulated Corepressor Interacting Protein 1
+4 AKT1 AKT Serine/Threonine Kinase 1
+5 MAPK1 Mitogen-Activated Protein Kinase 1
+6 SMAD3 SMAD Family Member 3
+7 SMAD4 SMAD Family Member 4
+8 SMAD2 SMAD Family Member 2
+9 VIM Vimentin
+10 FN1 Fibronectin 1
+11 TNC Tenascin C
+12 RUNX2 RUNX Family Transcription Factor 2
+13 CDH6 Cadherin 6
+14 ID1 Inhibitor Of DNA Binding 1
+15 CDH16 Cadherin 16
+16 SMARCA4 SWI/SNF Related, Matrix Associated, Actin Dependent Regulator Of Chromatin, Subfamily A, M
+17 ZEB1 Zinc Finger E-Box Binding Homeobox 1
+18 YAP1 Yes1 Associated Transcriptional Regulator
+19 MSX2 Msh Homeobox 2
+20 PTHLH Parathyroid Hormone Like Hormone
+21 TBX2 T-Box Transcription Factor 2
+22 TEAD1 TEA Domain Transcription Factor 1
+23 LATS2 Large Tumor Suppressor Kinase 2
+24 MSX1 Msh Homeobox 1
+25 EMP2 Epithelial Membrane Protein 2
+26 MAD2L2 Mitotic Arrest Deficient 2 Like 2
+27 PTPN14 Protein Tyrosine Phosphatase Non-Receptor Type 14
+28 SMURF2 SMAD Specific E3 Ubiquitin Protein Ligase 2
+29 EDA Ectodysplasin A
+30 FOXC1 Forkhead Box C1
+31 CUL7 Cullin 7
+32 PDPN Podoplanin
+33 TEAD4 TEA Domain Transcription Factor 4
+34 SCUBE3 Signal Peptide, CUB Domain And EGF Like Domain Containing 3
+35 DLG5 Discs Large MAGUK Scaffold Protein 5
+36 TEAD3 TEA Domain Transcription Factor 3
+37 TTC3 Tetratricopeptide Repeat Domain 3
+38 WWTR1 WW Domain Containing Transcription Regulator 1
+39 TEAD2 TEA Domain Transcription Factor 2
+40 CEMIP Cell Migration Inducing Hyaluronidase 1
+41 KLF17 KLF Transcription Factor 17
+42 TCF21 Transcription Factor 21
+43 ELL3 Elongation Factor For RNA Polymerase II 3
+44 USF3 Upstream Transcription Factor Family Member 3
+45 FGFR1 Fibroblast Growth Factor Receptor 1
+46 TBXT T-Box Transcription Factor T
+47 EOMES Eomesodermin
+48 SHH Sonic Hedgehog Signaling Molecule
+49 POU2AF3 POU Class 2 Homeobox Associating Factor 3
+50 SMO Smoothened, Frizzled Class Receptor
+51 BMP4 Bone Morphogenetic Protein 4
+52 FOXA1 Forkhead Box A1
+53 PDGFA Platelet Derived Growth Factor Subunit A
+54 WNT6 Wnt Family Member 6

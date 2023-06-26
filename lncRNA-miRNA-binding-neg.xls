@@ -1,0 +1,1935 @@
+,name_mRNA,name_miRNA,intersect
+1,ADAM17,hsa-miR-135a,6mer
+2,ADAM17,hsa-miR-33b,6mer
+3,ADAM17,hsa-miR-33b,6mer
+4,ADAM17,hsa-miR-500a,6mer
+5,ADAM17,hsa-miR-500a,6mer
+6,ADAM17,hsa-miR-8072,g-bulged 6mer
+7,ADAM17,hsa-miR-484,6mer
+8,ADAM17,hsa-miR-484,6mer
+9,ADAM17,hsa-miR-484,6mer
+10,ADAM17,hsa-miR-942,7mer-a1
+11,ADAM17,hsa-miR-942,6mer
+12,ADAM17,hsa-miR-942,g-bulged 6mer
+13,ADAM17,hsa-miR-219a,7mer-a1
+14,ADAM17,hsa-miR-219a,7mer-a1
+15,ADAM17,hsa-miR-3175,g-bulged 6mer
+16,ADCY7,hsa-miR-135a,wobbled 7mer
+17,ADCY7,hsa-miR-135a,wobbled 7mer
+18,ADCY7,hsa-miR-135a,6mer
+19,ADCY7,hsa-miR-33b,6mer
+20,ADCY7,hsa-miR-33b,g-bulged 6mer
+21,ADCY7,hsa-miR-550a,6mer
+22,ADCY7,hsa-miR-484,7mer-a1
+23,ADCY7,hsa-miR-484,6mer
+24,ADCY7,hsa-miR-484,g-bulged 6mer
+25,ADCY7,hsa-miR-942,6mer
+26,ADCY7,hsa-miR-942,6mer
+27,ADCY7,hsa-miR-942,6mer
+28,ADCY7,hsa-miR-4708,7mer-a1
+29,ADCY7,hsa-miR-4708,6mer
+30,ADCY7,hsa-miR-3175,8mer
+31,ADCY7,hsa-miR-3175,7mer-a1
+32,ADCY7,hsa-miR-3175,g-bulged 6mer
+33,ADCY7,hsa-miR-4513,g-bulged 6mer
+34,ADIRF,hsa-miR-135a,7mer-m8
+35,ADIRF,hsa-miR-135a,7mer-m8
+36,ADIRF,hsa-miR-484,6mer
+37,ADIRF,hsa-miR-4708,6mer
+38,ADIRF,hsa-miR-3175,g-bulged 6mer
+39,ALG12,hsa-miR-33b,7mer-m8
+40,ALG12,hsa-miR-377,7mer-m8
+41,ALG12,hsa-miR-550a,g-bulged 7mer
+42,ALG12,hsa-miR-8072,6mer
+43,ALG12,hsa-miR-484,6mer
+44,ALG12,hsa-miR-484,6mer
+45,ALG12,hsa-miR-219a,6mer
+46,ALG12,hsa-miR-3175,6mer
+47,ALG12,hsa-miR-3175,g-bulged 6mer
+48,ARHGAP31,hsa-miR-135a,wobbled 7mer
+49,ARHGAP31,hsa-miR-135a,6mer
+50,ARHGAP31,hsa-miR-135a,6mer
+51,ARHGAP31,hsa-miR-135a,6mer
+52,ARHGAP31,hsa-miR-135a,6mer
+53,ARHGAP31,hsa-miR-135a,6mer
+54,ARHGAP31,hsa-miR-135a,6mer
+55,ARHGAP31,hsa-miR-33b,7mer-m8
+56,ARHGAP31,hsa-miR-33b,7mer-a1
+57,ARHGAP31,hsa-miR-33b,6mer
+58,ARHGAP31,hsa-miR-33b,6mer
+59,ARHGAP31,hsa-miR-33b,6mer
+60,ARHGAP31,hsa-miR-377,7mer-a1
+61,ARHGAP31,hsa-miR-377,g-bulged 7mer
+62,ARHGAP31,hsa-miR-377,6mer
+63,ARHGAP31,hsa-miR-377,6mer
+64,ARHGAP31,hsa-miR-500a,7mer-a1
+65,ARHGAP31,hsa-miR-500a,6mer
+66,ARHGAP31,hsa-miR-500a,6mer
+67,ARHGAP31,hsa-miR-550a,8mer
+68,ARHGAP31,hsa-miR-550a,7mer-m8
+69,ARHGAP31,hsa-miR-550a,7mer-m8
+70,ARHGAP31,hsa-miR-8072,6mer
+71,ARHGAP31,hsa-miR-484,8mer
+72,ARHGAP31,hsa-miR-484,7mer-m8
+73,ARHGAP31,hsa-miR-484,6mer
+74,ARHGAP31,hsa-miR-484,6mer
+75,ARHGAP31,hsa-miR-484,6mer
+76,ARHGAP31,hsa-miR-484,6mer
+77,ARHGAP31,hsa-miR-484,6mer
+78,ARHGAP31,hsa-miR-484,6mer
+79,ARHGAP31,hsa-miR-484,6mer
+80,ARHGAP31,hsa-miR-484,6mer
+81,ARHGAP31,hsa-miR-484,g-bulged 6mer
+82,ARHGAP31,hsa-miR-942,8mer
+83,ARHGAP31,hsa-miR-942,8mer
+84,ARHGAP31,hsa-miR-942,7mer-m8
+85,ARHGAP31,hsa-miR-942,7mer-m8
+86,ARHGAP31,hsa-miR-942,7mer-a1
+87,ARHGAP31,hsa-miR-942,7mer-a1
+88,ARHGAP31,hsa-miR-942,g-bulged 7mer
+89,ARHGAP31,hsa-miR-942,6mer
+90,ARHGAP31,hsa-miR-942,6mer
+91,ARHGAP31,hsa-miR-942,6mer
+92,ARHGAP31,hsa-miR-942,6mer
+93,ARHGAP31,hsa-miR-942,g-bulged 6mer
+94,ARHGAP31,hsa-miR-942,g-bulged 6mer
+95,ARHGAP31,hsa-miR-219a,6mer
+96,ARHGAP31,hsa-miR-4708,7mer-m8
+97,ARHGAP31,hsa-miR-4708,7mer-m8
+98,ARHGAP31,hsa-miR-4708,6mer
+99,ARHGAP31,hsa-miR-4708,6mer
+100,ARHGAP31,hsa-miR-4708,6mer
+101,ARHGAP31,hsa-miR-4708,g-bulged 6mer
+102,ARHGAP31,hsa-miR-4708,g-bulged 6mer
+103,ARHGAP31,hsa-miR-4708,g-bulged 6mer
+104,ARHGAP31,hsa-miR-3175,6mer
+105,ARHGAP31,hsa-miR-3175,6mer
+106,ARHGAP31,hsa-miR-3175,6mer
+107,ARHGAP31,hsa-miR-3175,6mer
+108,ARHGAP31,hsa-miR-3175,g-bulged 6mer
+109,ARHGAP31,hsa-miR-4513,7mer-a1
+110,ARHGAP31,hsa-miR-4513,6mer
+111,ARHGAP31,hsa-miR-4513,6mer
+112,ARHGAP31,hsa-miR-4513,g-bulged 6mer
+113,ARSB,hsa-miR-135a,8mer
+114,ARSB,hsa-miR-135a,6mer
+115,ARSB,hsa-miR-377,g-bulged 6mer
+116,ARSB,hsa-miR-500a,6mer
+117,ARSB,hsa-miR-8072,7mer-a1
+118,ARSB,hsa-miR-8072,6mer
+119,ARSB,hsa-miR-8072,g-bulged 6mer
+120,ARSB,hsa-miR-942,7mer-m8
+121,ARSB,hsa-miR-942,7mer-a1
+122,ARSB,hsa-miR-4708,7mer-a1
+123,ARSB,hsa-miR-4708,6mer
+124,ARSB,hsa-miR-3175,g-bulged 7mer
+125,ARSB,hsa-miR-3175,6mer
+126,ARSB,hsa-miR-3175,6mer
+127,ATP10D,hsa-miR-135a,8mer
+128,ATP10D,hsa-miR-135a,wobbled 7mer
+129,ATP10D,hsa-miR-135a,6mer
+130,ATP10D,hsa-miR-135a,6mer
+131,ATP10D,hsa-miR-135a,6mer
+132,ATP10D,hsa-miR-135a,6mer
+133,ATP10D,hsa-miR-33b,7mer-m8
+134,ATP10D,hsa-miR-33b,6mer
+135,ATP10D,hsa-miR-377,7mer-m8
+136,ATP10D,hsa-miR-377,6mer
+137,ATP10D,hsa-miR-377,6mer
+138,ATP10D,hsa-miR-500a,wobbled 7mer
+139,ATP10D,hsa-miR-500a,wobbled 7mer
+140,ATP10D,hsa-miR-500a,6mer
+141,ATP10D,hsa-miR-500a,6mer
+142,ATP10D,hsa-miR-550a,6mer
+143,ATP10D,hsa-miR-484,8mer
+144,ATP10D,hsa-miR-484,7mer-a1
+145,ATP10D,hsa-miR-484,6mer
+146,ATP10D,hsa-miR-484,6mer
+147,ATP10D,hsa-miR-484,6mer
+148,ATP10D,hsa-miR-942,8mer
+149,ATP10D,hsa-miR-942,g-bulged 7mer
+150,ATP10D,hsa-miR-942,6mer
+151,ATP10D,hsa-miR-942,6mer
+152,ATP10D,hsa-miR-942,6mer
+153,ATP10D,hsa-miR-942,6mer
+154,ATP10D,hsa-miR-219a,7mer-a1
+155,ATP10D,hsa-miR-219a,6mer
+156,ATP10D,hsa-miR-219a,6mer
+157,ATP10D,hsa-miR-219a,6mer
+158,ATP10D,hsa-miR-219a,6mer
+159,ATP10D,hsa-miR-4708,7mer-a1
+160,ATP10D,hsa-miR-4708,6mer
+161,ATP10D,hsa-miR-4708,6mer
+162,ATP10D,hsa-miR-3175,g-bulged 6mer
+163,BEST1,hsa-miR-135a,7mer-a1
+164,BEST1,hsa-miR-33b,6mer
+165,BEST1,hsa-miR-33b,6mer
+166,BEST1,hsa-miR-377,7mer-a1
+167,BEST1,hsa-miR-550a,g-bulged 6mer
+168,BEST1,hsa-miR-484,7mer-m8
+169,BEST1,hsa-miR-484,7mer-m8
+170,BEST1,hsa-miR-484,7mer-a1
+171,BEST1,hsa-miR-484,7mer-a1
+172,BEST1,hsa-miR-484,6mer
+173,BEST1,hsa-miR-484,6mer
+174,BEST1,hsa-miR-484,g-bulged 6mer
+175,BEST1,hsa-miR-484,g-bulged 6mer
+176,BEST1,hsa-miR-942,g-bulged 6mer
+177,BEST1,hsa-miR-219a,7mer-a1
+178,BEST1,hsa-miR-4708,7mer-m8
+179,BEST1,hsa-miR-4708,6mer
+180,BEST1,hsa-miR-4708,6mer
+181,BEST1,hsa-miR-3175,g-bulged 7mer
+182,BEST1,hsa-miR-3175,g-bulged 7mer
+183,BEST1,hsa-miR-4513,6mer
+184,BMP2K,hsa-miR-135a,wobbled 7mer
+185,BMP2K,hsa-miR-33b,7mer-a1
+186,BMP2K,hsa-miR-33b,7mer-a1
+187,BMP2K,hsa-miR-33b,7mer-a1
+188,BMP2K,hsa-miR-33b,7mer-a1
+189,BMP2K,hsa-miR-33b,g-bulged 7mer
+190,BMP2K,hsa-miR-33b,6mer
+191,BMP2K,hsa-miR-33b,6mer
+192,BMP2K,hsa-miR-33b,g-bulged 6mer
+193,BMP2K,hsa-miR-33b,g-bulged 6mer
+194,BMP2K,hsa-miR-377,7mer-a1
+195,BMP2K,hsa-miR-377,7mer-a1
+196,BMP2K,hsa-miR-377,6mer
+197,BMP2K,hsa-miR-500a,7mer-m8
+198,BMP2K,hsa-miR-500a,6mer
+199,BMP2K,hsa-miR-500a,6mer
+200,BMP2K,hsa-miR-550a,8mer
+201,BMP2K,hsa-miR-550a,7mer-a1
+202,BMP2K,hsa-miR-8072,g-bulged 6mer
+203,BMP2K,hsa-miR-484,7mer-m8
+204,BMP2K,hsa-miR-942,7mer-m8
+205,BMP2K,hsa-miR-942,g-bulged 7mer
+206,BMP2K,hsa-miR-942,g-bulged 7mer
+207,BMP2K,hsa-miR-942,6mer
+208,BMP2K,hsa-miR-219a,7mer-a1
+209,BMP2K,hsa-miR-219a,6mer
+210,BMP2K,hsa-miR-4708,7mer-a1
+211,BMP2K,hsa-miR-4708,6mer
+212,BMP2K,hsa-miR-4708,g-bulged 6mer
+213,BMP2K,hsa-miR-4708,g-bulged 6mer
+214,BMP2K,hsa-miR-3175,7mer-m8
+215,BMP2K,hsa-miR-3175,6mer
+216,BMP2K,hsa-miR-4513,7mer-a1
+217,BMP2K,hsa-miR-4513,6mer
+218,BMP2K,hsa-miR-4513,6mer
+219,BMP2K,hsa-miR-4513,6mer
+220,BMP2K,hsa-miR-4513,6mer
+221,BMP2K,hsa-miR-4513,6mer
+222,C1orf167,hsa-miR-135a,6mer
+223,C1orf167,hsa-miR-550a,8mer
+224,C1orf167,hsa-miR-550a,7mer-m8
+225,C1orf167,hsa-miR-550a,g-bulged 7mer
+226,C1orf167,hsa-miR-550a,6mer
+227,C1orf167,hsa-miR-550a,g-bulged 6mer
+228,C1orf167,hsa-miR-484,7mer-m8
+229,C1orf167,hsa-miR-484,7mer-m8
+230,C1orf167,hsa-miR-484,7mer-m8
+231,C1orf167,hsa-miR-484,7mer-a1
+232,C1orf167,hsa-miR-484,6mer
+233,C1orf167,hsa-miR-484,6mer
+234,C1orf167,hsa-miR-484,g-bulged 6mer
+235,C1orf167,hsa-miR-484,g-bulged 6mer
+236,C1orf167,hsa-miR-484,g-bulged 6mer
+237,C1orf167,hsa-miR-942,7mer-m8
+238,C1orf167,hsa-miR-942,7mer-a1
+239,C1orf167,hsa-miR-942,6mer
+240,C1orf167,hsa-miR-942,6mer
+241,C1orf167,hsa-miR-942,g-bulged 6mer
+242,C1orf167,hsa-miR-942,g-bulged 6mer
+243,C1orf167,hsa-miR-3175,g-bulged 6mer
+244,C1orf167,hsa-miR-4513,6mer
+245,C2CD4B,hsa-miR-33b,7mer-m8
+246,C2CD4B,hsa-miR-550a,g-bulged 6mer
+247,C2CD4B,hsa-miR-8072,7mer-m8
+248,C2CD4B,hsa-miR-8072,7mer-m8
+249,C2CD4B,hsa-miR-8072,7mer-m8
+250,C2CD4B,hsa-miR-8072,7mer-a1
+251,C2CD4B,hsa-miR-8072,g-bulged 7mer
+252,C2CD4B,hsa-miR-8072,g-bulged 7mer
+253,C2CD4B,hsa-miR-8072,6mer
+254,C2CD4B,hsa-miR-8072,6mer
+255,C2CD4B,hsa-miR-8072,6mer
+256,C2CD4B,hsa-miR-8072,6mer
+257,C2CD4B,hsa-miR-8072,g-bulged 6mer
+258,C2CD4B,hsa-miR-484,7mer-m8
+259,C2CD4B,hsa-miR-3175,g-bulged 7mer
+260,C2CD4B,hsa-miR-3175,6mer
+261,C2CD4B,hsa-miR-3175,g-bulged 6mer
+262,C2CD4B,hsa-miR-4513,g-bulged 6mer
+263,CD302,hsa-miR-135a,7mer-m8
+264,CD302,hsa-miR-135a,7mer-m8
+265,CD302,hsa-miR-33b,8mer
+266,CD302,hsa-miR-33b,6mer
+267,CD302,hsa-miR-33b,6mer
+268,CD302,hsa-miR-500a,7mer-m8
+269,CD302,hsa-miR-550a,8mer
+270,CD302,hsa-miR-550a,7mer-m8
+271,CD302,hsa-miR-8072,6mer
+272,CD302,hsa-miR-942,7mer-a1
+273,CD302,hsa-miR-4708,g-bulged 7mer
+274,CEMP1,hsa-miR-377,7mer-m8
+275,CEMP1,hsa-miR-377,7mer-a1
+276,CEMP1,hsa-miR-550a,g-bulged 7mer
+277,CEMP1,hsa-miR-942,7mer-a1
+278,CEMP1,hsa-miR-219a,8mer
+279,CEMP1,hsa-miR-4708,6mer
+280,CEMP1,hsa-miR-4708,g-bulged 6mer
+281,CEMP1,hsa-miR-3175,g-bulged 7mer
+282,CEMP1,hsa-miR-3175,6mer
+283,CEMP1,hsa-miR-3175,g-bulged 6mer
+284,CIDEB,hsa-miR-135a,7mer-m8
+285,CIDEB,hsa-miR-33b,7mer-a1
+286,CIDEB,hsa-miR-377,6mer
+287,CIDEB,hsa-miR-500a,wobbled 7mer
+288,CIDEB,hsa-miR-500a,6mer
+289,CIDEB,hsa-miR-550a,g-bulged 6mer
+290,CIDEB,hsa-miR-8072,6mer
+291,CIDEB,hsa-miR-484,8mer
+292,CIDEB,hsa-miR-484,7mer-m8
+293,CIDEB,hsa-miR-484,7mer-a1
+294,CIDEB,hsa-miR-484,g-bulged 7mer
+295,CIDEB,hsa-miR-484,6mer
+296,CIDEB,hsa-miR-484,6mer
+297,CIDEB,hsa-miR-484,g-bulged 6mer
+298,CIDEB,hsa-miR-484,g-bulged 6mer
+299,CIDEB,hsa-miR-942,8mer
+300,CIDEB,hsa-miR-942,6mer
+301,CIDEB,hsa-miR-942,g-bulged 6mer
+302,CIDEB,hsa-miR-4708,6mer
+303,CIDEB,hsa-miR-4708,g-bulged 6mer
+304,CIDEB,hsa-miR-3175,7mer-a1
+305,CIDEB,hsa-miR-3175,g-bulged 7mer
+306,CIDEB,hsa-miR-3175,g-bulged 7mer
+307,CIDEB,hsa-miR-3175,g-bulged 7mer
+308,CIDEB,hsa-miR-3175,6mer
+309,CIDEB,hsa-miR-3175,6mer
+310,CIDEB,hsa-miR-3175,g-bulged 6mer
+311,CIDEB,hsa-miR-3175,g-bulged 6mer
+312,CIDEB,hsa-miR-4513,6mer
+313,CIDEB,hsa-miR-4513,6mer
+314,CILP,hsa-miR-135a,7mer-m8
+315,CILP,hsa-miR-135a,6mer
+316,CILP,hsa-miR-33b,7mer-a1
+317,CILP,hsa-miR-33b,7mer-a1
+318,CILP,hsa-miR-33b,6mer
+319,CILP,hsa-miR-33b,g-bulged 6mer
+320,CILP,hsa-miR-377,6mer
+321,CILP,hsa-miR-550a,7mer-m8
+322,CILP,hsa-miR-550a,7mer-a1
+323,CILP,hsa-miR-550a,6mer
+324,CILP,hsa-miR-550a,g-bulged 6mer
+325,CILP,hsa-miR-550a,g-bulged 6mer
+326,CILP,hsa-miR-484,7mer-a1
+327,CILP,hsa-miR-484,6mer
+328,CILP,hsa-miR-484,6mer
+329,CILP,hsa-miR-484,6mer
+330,CILP,hsa-miR-484,6mer
+331,CILP,hsa-miR-484,6mer
+332,CILP,hsa-miR-942,8mer
+333,CILP,hsa-miR-942,7mer-a1
+334,CILP,hsa-miR-942,g-bulged 6mer
+335,CILP,hsa-miR-219a,7mer-a1
+336,CILP,hsa-miR-4708,7mer-m8
+337,CILP,hsa-miR-4708,6mer
+338,CILP,hsa-miR-4708,6mer
+339,CILP,hsa-miR-3175,g-bulged 7mer
+340,CILP,hsa-miR-3175,6mer
+341,CILP,hsa-miR-3175,6mer
+342,CILP,hsa-miR-3175,g-bulged 6mer
+343,CILP,hsa-miR-3175,g-bulged 6mer
+344,CLDN22,hsa-miR-33b,8mer
+345,CLDN22,hsa-miR-33b,6mer
+346,CLDN22,hsa-miR-33b,6mer
+347,CLDN22,hsa-miR-33b,g-bulged 6mer
+348,CLDN22,hsa-miR-377,7mer-a1
+349,CLDN22,hsa-miR-377,6mer
+350,CLDN22,hsa-miR-550a,7mer-m8
+351,CLDN22,hsa-miR-484,7mer-a1
+352,CLDN22,hsa-miR-484,6mer
+353,CLDN22,hsa-miR-484,6mer
+354,CLDN22,hsa-miR-484,6mer
+355,CLDN22,hsa-miR-942,g-bulged 6mer
+356,CLDN22,hsa-miR-4708,7mer-a1
+357,CLDN22,hsa-miR-4708,6mer
+358,CLDN22,hsa-miR-3175,6mer
+359,CLDN22,hsa-miR-4513,7mer-a1
+360,CLDN22,hsa-miR-4513,6mer
+361,CLIC1,hsa-miR-33b,g-bulged 6mer
+362,CLIC1,hsa-miR-942,6mer
+363,CLIC1,hsa-miR-942,g-bulged 6mer
+364,CLIC1,hsa-miR-219a,7mer-m8
+365,CNNM2,hsa-miR-135a,7mer-m8
+366,CNNM2,hsa-miR-135a,wobbled 7mer
+367,CNNM2,hsa-miR-550a,6mer
+368,CNNM2,hsa-miR-8072,8mer
+369,CNNM2,hsa-miR-8072,8mer
+370,CNNM2,hsa-miR-8072,7mer-m8
+371,CNNM2,hsa-miR-8072,7mer-a1
+372,CNNM2,hsa-miR-8072,6mer
+373,CNNM2,hsa-miR-8072,6mer
+374,CNNM2,hsa-miR-942,8mer
+375,CNNM2,hsa-miR-942,7mer-a1
+376,CNNM2,hsa-miR-942,7mer-a1
+377,CNNM2,hsa-miR-4708,g-bulged 6mer
+378,CNNM2,hsa-miR-4513,8mer
+379,CXCR5,hsa-miR-135a,wobbled 7mer
+380,CXCR5,hsa-miR-135a,6mer
+381,CXCR5,hsa-miR-377,7mer-a1
+382,CXCR5,hsa-miR-550a,7mer-a1
+383,CXCR5,hsa-miR-550a,g-bulged 7mer
+384,CXCR5,hsa-miR-550a,6mer
+385,CXCR5,hsa-miR-550a,6mer
+386,CXCR5,hsa-miR-550a,g-bulged 6mer
+387,CXCR5,hsa-miR-8072,7mer-m8
+388,CXCR5,hsa-miR-484,6mer
+389,CXCR5,hsa-miR-484,6mer
+390,CXCR5,hsa-miR-484,6mer
+391,CXCR5,hsa-miR-942,6mer
+392,CXCR5,hsa-miR-942,6mer
+393,CXCR5,hsa-miR-942,6mer
+394,CXCR5,hsa-miR-942,g-bulged 6mer
+395,CXCR5,hsa-miR-942,g-bulged 6mer
+396,CXCR5,hsa-miR-942,g-bulged 6mer
+397,CXCR5,hsa-miR-4708,7mer-a1
+398,CXCR5,hsa-miR-4708,6mer
+399,CXCR5,hsa-miR-4708,g-bulged 6mer
+400,CXCR5,hsa-miR-3175,7mer-m8
+401,CXCR5,hsa-miR-3175,7mer-m8
+402,CXCR5,hsa-miR-3175,7mer-a1
+403,CXCR5,hsa-miR-3175,g-bulged 6mer
+404,CXCR5,hsa-miR-3175,g-bulged 6mer
+405,CXCR5,hsa-miR-3175,g-bulged 6mer
+406,CXCR5,hsa-miR-4513,6mer
+407,DAB2,hsa-miR-135a,6mer
+408,DAB2,hsa-miR-135a,6mer
+409,DAB2,hsa-miR-33b,7mer-m8
+410,DAB2,hsa-miR-33b,g-bulged 7mer
+411,DAB2,hsa-miR-33b,6mer
+412,DAB2,hsa-miR-377,g-bulged 6mer
+413,DAB2,hsa-miR-500a,7mer-m8
+414,DAB2,hsa-miR-550a,6mer
+415,DAB2,hsa-miR-8072,8mer
+416,DAB2,hsa-miR-484,6mer
+417,DAB2,hsa-miR-942,6mer
+418,DAB2,hsa-miR-942,g-bulged 6mer
+419,DAB2,hsa-miR-219a,6mer
+420,DAB2,hsa-miR-4708,6mer
+421,DAB2,hsa-miR-4708,6mer
+422,DAB2,hsa-miR-3175,g-bulged 7mer
+423,DAB2,hsa-miR-3175,6mer
+424,DAB2,hsa-miR-3175,6mer
+425,DAB2,hsa-miR-3175,6mer
+426,DAB2,hsa-miR-4513,7mer-a1
+427,DAB2,hsa-miR-4513,7mer-a1
+428,DAB2,hsa-miR-4513,6mer
+429,DAB2,hsa-miR-4513,6mer
+430,DCHS1,hsa-miR-135a,7mer-m8
+431,DCHS1,hsa-miR-135a,wobbled 7mer
+432,DCHS1,hsa-miR-135a,6mer
+433,DCHS1,hsa-miR-135a,6mer
+434,DCHS1,hsa-miR-135a,6mer
+435,DCHS1,hsa-miR-135a,6mer
+436,DCHS1,hsa-miR-33b,7mer-m8
+437,DCHS1,hsa-miR-33b,7mer-m8
+438,DCHS1,hsa-miR-33b,g-bulged 6mer
+439,DCHS1,hsa-miR-33b,g-bulged 6mer
+440,DCHS1,hsa-miR-377,8mer
+441,DCHS1,hsa-miR-377,7mer-a1
+442,DCHS1,hsa-miR-377,6mer
+443,DCHS1,hsa-miR-550a,8mer
+444,DCHS1,hsa-miR-550a,8mer
+445,DCHS1,hsa-miR-550a,8mer
+446,DCHS1,hsa-miR-550a,8mer
+447,DCHS1,hsa-miR-550a,7mer-m8
+448,DCHS1,hsa-miR-550a,7mer-m8
+449,DCHS1,hsa-miR-550a,7mer-m8
+450,DCHS1,hsa-miR-550a,7mer-m8
+451,DCHS1,hsa-miR-550a,7mer-m8
+452,DCHS1,hsa-miR-550a,7mer-m8
+453,DCHS1,hsa-miR-550a,7mer-m8
+454,DCHS1,hsa-miR-550a,7mer-a1
+455,DCHS1,hsa-miR-550a,7mer-a1
+456,DCHS1,hsa-miR-550a,6mer
+457,DCHS1,hsa-miR-550a,g-bulged 6mer
+458,DCHS1,hsa-miR-550a,g-bulged 6mer
+459,DCHS1,hsa-miR-8072,7mer-m8
+460,DCHS1,hsa-miR-484,8mer
+461,DCHS1,hsa-miR-484,7mer-m8
+462,DCHS1,hsa-miR-484,7mer-m8
+463,DCHS1,hsa-miR-484,7mer-m8
+464,DCHS1,hsa-miR-484,7mer-m8
+465,DCHS1,hsa-miR-484,7mer-m8
+466,DCHS1,hsa-miR-484,7mer-a1
+467,DCHS1,hsa-miR-484,6mer
+468,DCHS1,hsa-miR-484,6mer
+469,DCHS1,hsa-miR-484,6mer
+470,DCHS1,hsa-miR-484,6mer
+471,DCHS1,hsa-miR-942,7mer-m8
+472,DCHS1,hsa-miR-942,6mer
+473,DCHS1,hsa-miR-219a,8mer
+474,DCHS1,hsa-miR-219a,7mer-m8
+475,DCHS1,hsa-miR-219a,6mer
+476,DCHS1,hsa-miR-4708,7mer-m8
+477,DCHS1,hsa-miR-4708,6mer
+478,DCHS1,hsa-miR-4708,6mer
+479,DCHS1,hsa-miR-4708,6mer
+480,DCHS1,hsa-miR-3175,7mer-m8
+481,DCHS1,hsa-miR-3175,7mer-m8
+482,DCHS1,hsa-miR-3175,7mer-a1
+483,DCHS1,hsa-miR-3175,7mer-a1
+484,DCHS1,hsa-miR-3175,g-bulged 7mer
+485,DCHS1,hsa-miR-3175,6mer
+486,DCHS1,hsa-miR-3175,6mer
+487,DCHS1,hsa-miR-3175,6mer
+488,DCHS1,hsa-miR-3175,6mer
+489,DCHS1,hsa-miR-3175,6mer
+490,DCHS1,hsa-miR-3175,6mer
+491,DCHS1,hsa-miR-3175,6mer
+492,DCHS1,hsa-miR-3175,6mer
+493,DCHS1,hsa-miR-3175,g-bulged 6mer
+494,DCHS1,hsa-miR-3175,g-bulged 6mer
+495,DCHS1,hsa-miR-3175,g-bulged 6mer
+496,DCHS1,hsa-miR-3175,g-bulged 6mer
+497,DCHS1,hsa-miR-3175,g-bulged 6mer
+498,DCHS1,hsa-miR-4513,g-bulged 7mer
+499,DCHS1,hsa-miR-4513,6mer
+500,DEXI,hsa-miR-135a,6mer
+501,DEXI,hsa-miR-550a,6mer
+502,DEXI,hsa-miR-8072,8mer
+503,DEXI,hsa-miR-8072,7mer-m8
+504,DEXI,hsa-miR-8072,7mer-m8
+505,DEXI,hsa-miR-8072,7mer-a1
+506,DEXI,hsa-miR-8072,g-bulged 7mer
+507,DEXI,hsa-miR-8072,6mer
+508,DEXI,hsa-miR-942,7mer-m8
+509,DEXI,hsa-miR-942,g-bulged 6mer
+510,DEXI,hsa-miR-4708,6mer
+511,DEXI,hsa-miR-3175,6mer
+512,DEXI,hsa-miR-3175,6mer
+513,DEXI,hsa-miR-3175,6mer
+514,DNAJC14,hsa-miR-135a,7mer-m8
+515,DNAJC14,hsa-miR-135a,wobbled 7mer
+516,DNAJC14,hsa-miR-33b,6mer
+517,DNAJC14,hsa-miR-377,7mer-m8
+518,DNAJC14,hsa-miR-500a,6mer
+519,DNAJC14,hsa-miR-550a,8mer
+520,DNAJC14,hsa-miR-550a,7mer-m8
+521,DNAJC14,hsa-miR-550a,6mer
+522,DNAJC14,hsa-miR-484,7mer-a1
+523,DNAJC14,hsa-miR-484,6mer
+524,DNAJC14,hsa-miR-484,g-bulged 6mer
+525,DNAJC14,hsa-miR-942,6mer
+526,DNAJC14,hsa-miR-942,g-bulged 6mer
+527,DNAJC14,hsa-miR-942,g-bulged 6mer
+528,DNAJC14,hsa-miR-4708,7mer-a1
+529,DNAJC14,hsa-miR-4708,7mer-a1
+530,DNAJC14,hsa-miR-4708,7mer-a1
+531,DNAJC14,hsa-miR-3175,8mer
+532,DNAJC14,hsa-miR-3175,6mer
+533,DNAJC14,hsa-miR-3175,g-bulged 6mer
+534,DND1,hsa-miR-135a,6mer
+535,DND1,hsa-miR-377,7mer-m8
+536,DND1,hsa-miR-550a,7mer-m8
+537,DND1,hsa-miR-550a,7mer-m8
+538,DND1,hsa-miR-8072,7mer-m8
+539,DND1,hsa-miR-484,7mer-m8
+540,DND1,hsa-miR-484,g-bulged 6mer
+541,DND1,hsa-miR-942,6mer
+542,DND1,hsa-miR-942,g-bulged 6mer
+543,DOK6,hsa-miR-135a,7mer-a1
+544,DOK6,hsa-miR-135a,6mer
+545,DOK6,hsa-miR-135a,6mer
+546,DOK6,hsa-miR-135a,6mer
+547,DOK6,hsa-miR-135a,6mer
+548,DOK6,hsa-miR-33b,8mer
+549,DOK6,hsa-miR-33b,7mer-m8
+550,DOK6,hsa-miR-33b,7mer-m8
+551,DOK6,hsa-miR-33b,7mer-m8
+552,DOK6,hsa-miR-33b,7mer-a1
+553,DOK6,hsa-miR-33b,7mer-a1
+554,DOK6,hsa-miR-33b,6mer
+555,DOK6,hsa-miR-33b,6mer
+556,DOK6,hsa-miR-33b,6mer
+557,DOK6,hsa-miR-33b,6mer
+558,DOK6,hsa-miR-33b,g-bulged 6mer
+559,DOK6,hsa-miR-377,8mer
+560,DOK6,hsa-miR-377,7mer-m8
+561,DOK6,hsa-miR-377,7mer-a1
+562,DOK6,hsa-miR-377,7mer-a1
+563,DOK6,hsa-miR-377,6mer
+564,DOK6,hsa-miR-377,g-bulged 6mer
+565,DOK6,hsa-miR-500a,8mer
+566,DOK6,hsa-miR-500a,7mer-a1
+567,DOK6,hsa-miR-500a,7mer-a1
+568,DOK6,hsa-miR-500a,7mer-a1
+569,DOK6,hsa-miR-500a,wobbled 7mer
+570,DOK6,hsa-miR-500a,wobbled 7mer
+571,DOK6,hsa-miR-500a,wobbled 7mer
+572,DOK6,hsa-miR-500a,6mer
+573,DOK6,hsa-miR-500a,6mer
+574,DOK6,hsa-miR-500a,6mer
+575,DOK6,hsa-miR-500a,6mer
+576,DOK6,hsa-miR-500a,6mer
+577,DOK6,hsa-miR-500a,6mer
+578,DOK6,hsa-miR-500a,6mer
+579,DOK6,hsa-miR-500a,6mer
+580,DOK6,hsa-miR-500a,6mer
+581,DOK6,hsa-miR-550a,6mer
+582,DOK6,hsa-miR-550a,6mer
+583,DOK6,hsa-miR-484,8mer
+584,DOK6,hsa-miR-484,6mer
+585,DOK6,hsa-miR-484,6mer
+586,DOK6,hsa-miR-484,6mer
+587,DOK6,hsa-miR-484,6mer
+588,DOK6,hsa-miR-484,6mer
+589,DOK6,hsa-miR-942,8mer
+590,DOK6,hsa-miR-942,7mer-m8
+591,DOK6,hsa-miR-942,7mer-m8
+592,DOK6,hsa-miR-942,7mer-a1
+593,DOK6,hsa-miR-942,g-bulged 7mer
+594,DOK6,hsa-miR-942,6mer
+595,DOK6,hsa-miR-942,6mer
+596,DOK6,hsa-miR-942,6mer
+597,DOK6,hsa-miR-942,6mer
+598,DOK6,hsa-miR-942,6mer
+599,DOK6,hsa-miR-942,g-bulged 6mer
+600,DOK6,hsa-miR-942,g-bulged 6mer
+601,DOK6,hsa-miR-219a,8mer
+602,DOK6,hsa-miR-219a,7mer-a1
+603,DOK6,hsa-miR-219a,7mer-a1
+604,DOK6,hsa-miR-219a,6mer
+605,DOK6,hsa-miR-219a,6mer
+606,DOK6,hsa-miR-4708,7mer-m8
+607,DOK6,hsa-miR-4708,7mer-a1
+608,DOK6,hsa-miR-4708,6mer
+609,DOK6,hsa-miR-4708,6mer
+610,DOK6,hsa-miR-4708,6mer
+611,DOK6,hsa-miR-4708,6mer
+612,DOK6,hsa-miR-4708,6mer
+613,DOK6,hsa-miR-4708,g-bulged 6mer
+614,DOK6,hsa-miR-4708,g-bulged 6mer
+615,DOK6,hsa-miR-4708,g-bulged 6mer
+616,DOK6,hsa-miR-3175,7mer-a1
+617,DOK6,hsa-miR-3175,7mer-a1
+618,DOK6,hsa-miR-3175,7mer-a1
+619,DOK6,hsa-miR-3175,7mer-a1
+620,DOK6,hsa-miR-3175,g-bulged 7mer
+621,DOK6,hsa-miR-4513,6mer
+622,DOK6,hsa-miR-4513,6mer
+623,ECI1,hsa-miR-135a,wobbled 7mer
+624,ECI1,hsa-miR-500a,7mer-m8
+625,ECI1,hsa-miR-484,7mer-m8
+626,ECI1,hsa-miR-484,7mer-m8
+627,ECI1,hsa-miR-484,6mer
+628,ECI1,hsa-miR-942,6mer
+629,ECI1,hsa-miR-4708,6mer
+630,ECI1,hsa-miR-3175,7mer-a1
+631,ECI1,hsa-miR-3175,g-bulged 6mer
+632,EIF4EBP3,hsa-miR-550a,6mer
+633,EIF4EBP3,hsa-miR-942,g-bulged 7mer
+634,EIF4EBP3,hsa-miR-4513,6mer
+635,ELOVL5,hsa-miR-135a,wobbled 7mer
+636,ELOVL5,hsa-miR-135a,6mer
+637,ELOVL5,hsa-miR-377,6mer
+638,ELOVL5,hsa-miR-500a,7mer-m8
+639,ELOVL5,hsa-miR-550a,g-bulged 7mer
+640,ELOVL5,hsa-miR-8072,7mer-m8
+641,ELOVL5,hsa-miR-219a,8mer
+642,ELOVL5,hsa-miR-4708,7mer-a1
+643,FAM104A,hsa-miR-33b,7mer-a1
+644,FAM104A,hsa-miR-500a,8mer
+645,FAM104A,hsa-miR-500a,7mer-m8
+646,FAM104A,hsa-miR-500a,6mer
+647,FAM104A,hsa-miR-500a,6mer
+648,FAM104A,hsa-miR-500a,6mer
+649,FAM104A,hsa-miR-550a,7mer-m8
+650,FAM104A,hsa-miR-550a,6mer
+651,FAM104A,hsa-miR-8072,6mer
+652,FAM104A,hsa-miR-484,6mer
+653,FAM104A,hsa-miR-942,6mer
+654,FAM104A,hsa-miR-942,6mer
+655,FAM104A,hsa-miR-219a,7mer-a1
+656,FAM104A,hsa-miR-4708,6mer
+657,FAM104A,hsa-miR-4708,6mer
+658,FAM104A,hsa-miR-4513,8mer
+659,FAM104A,hsa-miR-4513,6mer
+660,FAM104A,hsa-miR-4513,6mer
+661,FBN1,hsa-miR-135a,6mer
+662,FBN1,hsa-miR-33b,6mer
+663,FBN1,hsa-miR-33b,6mer
+664,FBN1,hsa-miR-377,7mer-a1
+665,FBN1,hsa-miR-500a,wobbled 7mer
+666,FBN1,hsa-miR-8072,7mer-m8
+667,FBN1,hsa-miR-8072,7mer-m8
+668,FBN1,hsa-miR-8072,g-bulged 7mer
+669,FBN1,hsa-miR-484,g-bulged 6mer
+670,FBN1,hsa-miR-942,8mer
+671,FBN1,hsa-miR-942,6mer
+672,FBN1,hsa-miR-4708,g-bulged 7mer
+673,FBN1,hsa-miR-3175,8mer
+674,FBN1,hsa-miR-3175,8mer
+675,FBN1,hsa-miR-3175,6mer
+676,FBXO11,hsa-miR-33b,8mer
+677,FBXO11,hsa-miR-33b,7mer-m8
+678,FBXO11,hsa-miR-33b,7mer-m8
+679,FBXO11,hsa-miR-33b,6mer
+680,FBXO11,hsa-miR-500a,6mer
+681,FBXO11,hsa-miR-484,7mer-a1
+682,FBXO11,hsa-miR-942,7mer-a1
+683,FBXO11,hsa-miR-219a,7mer-a1
+684,FBXO11,hsa-miR-3175,6mer
+685,FEM1A,hsa-miR-135a,7mer-m8
+686,FEM1A,hsa-miR-135a,7mer-m8
+687,FEM1A,hsa-miR-135a,wobbled 7mer
+688,FEM1A,hsa-miR-135a,wobbled 7mer
+689,FEM1A,hsa-miR-135a,wobbled 7mer
+690,FEM1A,hsa-miR-135a,6mer
+691,FEM1A,hsa-miR-33b,6mer
+692,FEM1A,hsa-miR-377,7mer-m8
+693,FEM1A,hsa-miR-500a,7mer-m8
+694,FEM1A,hsa-miR-500a,7mer-m8
+695,FEM1A,hsa-miR-500a,wobbled 7mer
+696,FEM1A,hsa-miR-500a,6mer
+697,FEM1A,hsa-miR-500a,6mer
+698,FEM1A,hsa-miR-550a,7mer-m8
+699,FEM1A,hsa-miR-550a,7mer-m8
+700,FEM1A,hsa-miR-550a,7mer-m8
+701,FEM1A,hsa-miR-550a,7mer-m8
+702,FEM1A,hsa-miR-550a,7mer-m8
+703,FEM1A,hsa-miR-550a,g-bulged 7mer
+704,FEM1A,hsa-miR-8072,7mer-m8
+705,FEM1A,hsa-miR-8072,7mer-m8
+706,FEM1A,hsa-miR-8072,6mer
+707,FEM1A,hsa-miR-8072,6mer
+708,FEM1A,hsa-miR-8072,6mer
+709,FEM1A,hsa-miR-8072,6mer
+710,FEM1A,hsa-miR-484,7mer-m8
+711,FEM1A,hsa-miR-484,7mer-m8
+712,FEM1A,hsa-miR-484,7mer-m8
+713,FEM1A,hsa-miR-484,7mer-a1
+714,FEM1A,hsa-miR-484,7mer-a1
+715,FEM1A,hsa-miR-484,6mer
+716,FEM1A,hsa-miR-484,6mer
+717,FEM1A,hsa-miR-484,6mer
+718,FEM1A,hsa-miR-484,6mer
+719,FEM1A,hsa-miR-484,6mer
+720,FEM1A,hsa-miR-484,6mer
+721,FEM1A,hsa-miR-484,6mer
+722,FEM1A,hsa-miR-484,6mer
+723,FEM1A,hsa-miR-484,6mer
+724,FEM1A,hsa-miR-484,6mer
+725,FEM1A,hsa-miR-484,6mer
+726,FEM1A,hsa-miR-484,6mer
+727,FEM1A,hsa-miR-484,6mer
+728,FEM1A,hsa-miR-484,6mer
+729,FEM1A,hsa-miR-484,6mer
+730,FEM1A,hsa-miR-942,6mer
+731,FEM1A,hsa-miR-942,6mer
+732,FEM1A,hsa-miR-942,g-bulged 6mer
+733,FEM1A,hsa-miR-942,g-bulged 6mer
+734,FEM1A,hsa-miR-4708,7mer-a1
+735,FEM1A,hsa-miR-4708,7mer-a1
+736,FEM1A,hsa-miR-4708,6mer
+737,FEM1A,hsa-miR-4708,6mer
+738,FEM1A,hsa-miR-4708,6mer
+739,FEM1A,hsa-miR-3175,7mer-m8
+740,FEM1A,hsa-miR-3175,7mer-m8
+741,FEM1A,hsa-miR-3175,7mer-a1
+742,FEM1A,hsa-miR-3175,7mer-a1
+743,FEM1A,hsa-miR-3175,g-bulged 7mer
+744,FEM1A,hsa-miR-3175,g-bulged 7mer
+745,FEM1A,hsa-miR-3175,6mer
+746,FEM1A,hsa-miR-4513,8mer
+747,FEM1A,hsa-miR-4513,7mer-m8
+748,FIS1,hsa-miR-135a,wobbled 7mer
+749,FIS1,hsa-miR-942,6mer
+750,FIS1,hsa-miR-942,6mer
+751,FIS1,hsa-miR-3175,7mer-m8
+752,FIS1,hsa-miR-3175,6mer
+753,FIS1,hsa-miR-3175,g-bulged 6mer
+754,FIS1,hsa-miR-4513,6mer
+755,FMNL3,hsa-miR-135a,6mer
+756,FMNL3,hsa-miR-135a,6mer
+757,FMNL3,hsa-miR-33b,7mer-m8
+758,FMNL3,hsa-miR-550a,7mer-a1
+759,FMNL3,hsa-miR-484,7mer-m8
+760,FMNL3,hsa-miR-484,g-bulged 6mer
+761,FMNL3,hsa-miR-942,7mer-m8
+762,FMNL3,hsa-miR-942,7mer-m8
+763,FMNL3,hsa-miR-942,7mer-m8
+764,FMNL3,hsa-miR-942,7mer-a1
+765,FMNL3,hsa-miR-942,7mer-a1
+766,FMNL3,hsa-miR-942,6mer
+767,FMNL3,hsa-miR-942,6mer
+768,FMNL3,hsa-miR-942,6mer
+769,FMNL3,hsa-miR-942,6mer
+770,FMNL3,hsa-miR-942,6mer
+771,FMNL3,hsa-miR-942,6mer
+772,FMNL3,hsa-miR-4708,7mer-a1
+773,FMNL3,hsa-miR-3175,7mer-a1
+774,FMNL3,hsa-miR-3175,6mer
+775,FXYD3,hsa-miR-135a,6mer
+776,FXYD3,hsa-miR-33b,7mer-a1
+777,FXYD3,hsa-miR-377,7mer-a1
+778,FXYD3,hsa-miR-377,g-bulged 7mer
+779,FXYD3,hsa-miR-377,6mer
+780,FXYD3,hsa-miR-484,7mer-m8
+781,FXYD3,hsa-miR-484,6mer
+782,FXYD3,hsa-miR-484,6mer
+783,FXYD3,hsa-miR-484,g-bulged 6mer
+784,FXYD3,hsa-miR-942,6mer
+785,FXYD3,hsa-miR-4708,7mer-a1
+786,FXYD3,hsa-miR-4708,7mer-a1
+787,FXYD3,hsa-miR-3175,7mer-a1
+788,GIT2,hsa-miR-135a,6mer
+789,GIT2,hsa-miR-377,7mer-a1
+790,GIT2,hsa-miR-500a,6mer
+791,GIT2,hsa-miR-550a,8mer
+792,GIT2,hsa-miR-550a,g-bulged 6mer
+793,GIT2,hsa-miR-8072,8mer
+794,GIT2,hsa-miR-8072,7mer-m8
+795,GIT2,hsa-miR-484,6mer
+796,GIT2,hsa-miR-484,6mer
+797,GIT2,hsa-miR-942,g-bulged 6mer
+798,GIT2,hsa-miR-219a,6mer
+799,GIT2,hsa-miR-4708,g-bulged 6mer
+800,GJB1,hsa-miR-135a,6mer
+801,GJB1,hsa-miR-377,7mer-m8
+802,GJB1,hsa-miR-377,7mer-m8
+803,GJB1,hsa-miR-500a,6mer
+804,GJB1,hsa-miR-550a,7mer-a1
+805,GJB1,hsa-miR-8072,7mer-a1
+806,GJB1,hsa-miR-8072,6mer
+807,GJB1,hsa-miR-484,7mer-m8
+808,GJB1,hsa-miR-484,6mer
+809,GJB1,hsa-miR-942,8mer
+810,GJB1,hsa-miR-942,7mer-m8
+811,GJB1,hsa-miR-942,6mer
+812,GJB1,hsa-miR-4708,7mer-a1
+813,GJB1,hsa-miR-4708,6mer
+814,GJB1,hsa-miR-3175,7mer-m8
+815,GJB1,hsa-miR-3175,g-bulged 7mer
+816,GJB1,hsa-miR-3175,6mer
+817,GLIPR1,hsa-miR-135a,6mer
+818,GLIPR1,hsa-miR-33b,6mer
+819,GLIPR1,hsa-miR-550a,6mer
+820,GLIPR1,hsa-miR-484,8mer
+821,GLIPR1,hsa-miR-484,7mer-a1
+822,GLIPR1,hsa-miR-484,6mer
+823,GLIPR1,hsa-miR-484,6mer
+824,GLIPR1,hsa-miR-4708,7mer-a1
+825,GLIPR1,hsa-miR-4708,7mer-a1
+826,GLIPR1,hsa-miR-4708,6mer
+827,GLIPR1,hsa-miR-4708,6mer
+828,GLIPR1,hsa-miR-3175,7mer-m8
+829,GLIPR1,hsa-miR-4513,7mer-m8
+830,GLIPR1,hsa-miR-4513,6mer
+831,GLIPR1,hsa-miR-4513,6mer
+832,GRAP,hsa-miR-500a,wobbled 7mer
+833,GRAP,hsa-miR-500a,6mer
+834,GRAP,hsa-miR-942,g-bulged 6mer
+835,GRAP,hsa-miR-4708,g-bulged 7mer
+836,GRAP,hsa-miR-3175,7mer-a1
+837,GRAP,hsa-miR-4513,6mer
+838,GXYLT2,hsa-miR-135a,7mer-a1
+839,GXYLT2,hsa-miR-135a,6mer
+840,GXYLT2,hsa-miR-33b,6mer
+841,GXYLT2,hsa-miR-377,6mer
+842,GXYLT2,hsa-miR-500a,6mer
+843,GXYLT2,hsa-miR-8072,7mer-m8
+844,GXYLT2,hsa-miR-8072,7mer-m8
+845,GXYLT2,hsa-miR-8072,7mer-m8
+846,GXYLT2,hsa-miR-8072,7mer-m8
+847,GXYLT2,hsa-miR-8072,g-bulged 6mer
+848,GXYLT2,hsa-miR-484,g-bulged 6mer
+849,GXYLT2,hsa-miR-484,g-bulged 6mer
+850,GXYLT2,hsa-miR-942,6mer
+851,GXYLT2,hsa-miR-942,g-bulged 6mer
+852,GXYLT2,hsa-miR-219a,7mer-m8
+853,GXYLT2,hsa-miR-219a,g-bulged 6mer
+854,GXYLT2,hsa-miR-4708,6mer
+855,GXYLT2,hsa-miR-4708,6mer
+856,GXYLT2,hsa-miR-3175,7mer-a1
+857,GXYLT2,hsa-miR-3175,6mer
+858,GXYLT2,hsa-miR-3175,6mer
+859,ICAM4,hsa-miR-8072,g-bulged 6mer
+860,ICAM4,hsa-miR-484,6mer
+861,ICAM4,hsa-miR-484,6mer
+862,ICAM4,hsa-miR-484,6mer
+863,ICAM4,hsa-miR-484,6mer
+864,ICAM4,hsa-miR-219a,6mer
+865,IDI2,hsa-miR-135a,6mer
+866,IDI2,hsa-miR-377,g-bulged 6mer
+867,IDI2,hsa-miR-484,6mer
+868,IDI2,hsa-miR-219a,7mer-m8
+869,IDI2,hsa-miR-3175,8mer
+870,IDI2,hsa-miR-4513,g-bulged 7mer
+871,ILK,hsa-miR-135a,6mer
+872,ILK,hsa-miR-33b,7mer-m8
+873,ILK,hsa-miR-33b,6mer
+874,ILK,hsa-miR-500a,6mer
+875,ILK,hsa-miR-550a,6mer
+876,ILK,hsa-miR-550a,6mer
+877,ILK,hsa-miR-484,7mer-a1
+878,ILK,hsa-miR-942,8mer
+879,ILK,hsa-miR-942,7mer-a1
+880,ILK,hsa-miR-4708,g-bulged 6mer
+881,ILK,hsa-miR-3175,7mer-m8
+882,ILK,hsa-miR-3175,7mer-a1
+883,ILK,hsa-miR-3175,6mer
+884,IPPK,hsa-miR-33b,6mer
+885,IPPK,hsa-miR-550a,7mer-m8
+886,IPPK,hsa-miR-550a,7mer-a1
+887,IPPK,hsa-miR-8072,6mer
+888,IPPK,hsa-miR-484,7mer-m8
+889,IPPK,hsa-miR-219a,6mer
+890,IPPK,hsa-miR-3175,6mer
+891,KBTBD4,hsa-miR-33b,g-bulged 7mer
+892,KBTBD4,hsa-miR-377,8mer
+893,KBTBD4,hsa-miR-550a,7mer-a1
+894,KBTBD4,hsa-miR-484,7mer-m8
+895,KBTBD4,hsa-miR-484,6mer
+896,KBTBD4,hsa-miR-484,6mer
+897,KBTBD4,hsa-miR-484,6mer
+898,KBTBD4,hsa-miR-484,g-bulged 6mer
+899,KBTBD4,hsa-miR-942,7mer-m8
+900,KBTBD4,hsa-miR-942,7mer-m8
+901,KBTBD4,hsa-miR-219a,6mer
+902,KBTBD4,hsa-miR-4708,6mer
+903,KBTBD4,hsa-miR-4708,6mer
+904,KBTBD4,hsa-miR-4708,6mer
+905,KBTBD4,hsa-miR-3175,7mer-a1
+906,KBTBD4,hsa-miR-3175,g-bulged 7mer
+907,LCN2,hsa-miR-33b,7mer-a1
+908,LCN2,hsa-miR-484,g-bulged 6mer
+909,LCN2,hsa-miR-942,8mer
+910,LCN2,hsa-miR-4708,6mer
+911,LCN2,hsa-miR-3175,7mer-a1
+912,LCN2,hsa-miR-3175,7mer-a1
+913,LCN2,hsa-miR-3175,g-bulged 6mer
+914,LRG1,hsa-miR-377,7mer-m8
+915,LRG1,hsa-miR-377,g-bulged 6mer
+916,LRG1,hsa-miR-550a,8mer
+917,LRG1,hsa-miR-484,6mer
+918,LRG1,hsa-miR-484,6mer
+919,LRG1,hsa-miR-484,6mer
+920,LRG1,hsa-miR-942,6mer
+921,LRG1,hsa-miR-4708,6mer
+922,LRG1,hsa-miR-4708,6mer
+923,LRG1,hsa-miR-3175,g-bulged 6mer
+924,LRG1,hsa-miR-3175,g-bulged 6mer
+925,LRG1,hsa-miR-3175,g-bulged 6mer
+926,LRRC8E,hsa-miR-135a,wobbled 7mer
+927,LRRC8E,hsa-miR-33b,7mer-m8
+928,LRRC8E,hsa-miR-500a,wobbled 8mer
+929,LRRC8E,hsa-miR-550a,7mer-m8
+930,LRRC8E,hsa-miR-484,8mer
+931,LRRC8E,hsa-miR-484,7mer-m8
+932,LRRC8E,hsa-miR-484,6mer
+933,LRRC8E,hsa-miR-484,6mer
+934,LRRC8E,hsa-miR-484,6mer
+935,LRRC8E,hsa-miR-484,6mer
+936,LRRC8E,hsa-miR-484,6mer
+937,LRRC8E,hsa-miR-484,g-bulged 6mer
+938,LRRC8E,hsa-miR-942,7mer-a1
+939,LRRC8E,hsa-miR-942,6mer
+940,LRRC8E,hsa-miR-942,6mer
+941,LRRC8E,hsa-miR-942,6mer
+942,LRRC8E,hsa-miR-942,6mer
+943,LRRC8E,hsa-miR-4708,7mer-a1
+944,LRRC8E,hsa-miR-4708,6mer
+945,LRRC8E,hsa-miR-4708,6mer
+946,LRRC8E,hsa-miR-3175,7mer-a1
+947,LRRC8E,hsa-miR-3175,6mer
+948,LRRC8E,hsa-miR-3175,g-bulged 6mer
+949,LRRC8E,hsa-miR-4513,7mer-a1
+950,MAGED4,hsa-miR-377,7mer-m8
+951,MAGED4,hsa-miR-550a,6mer
+952,MAGED4,hsa-miR-550a,6mer
+953,MAGED4,hsa-miR-550a,6mer
+954,MAGED4,hsa-miR-8072,7mer-m8
+955,MAGED4,hsa-miR-8072,7mer-m8
+956,MAGED4,hsa-miR-8072,7mer-a1
+957,MAGED4,hsa-miR-8072,6mer
+958,MAGED4,hsa-miR-8072,g-bulged 6mer
+959,MAGED4,hsa-miR-942,g-bulged 7mer
+960,MAGED4,hsa-miR-942,6mer
+961,MAGED4,hsa-miR-942,g-bulged 6mer
+962,MAGED4,hsa-miR-4708,6mer
+963,MAGED4,hsa-miR-3175,g-bulged 7mer
+964,MAGED4,hsa-miR-3175,6mer
+965,MAGED4,hsa-miR-3175,g-bulged 6mer
+966,MAGED4,hsa-miR-3175,g-bulged 6mer
+967,MAGED4,hsa-miR-4513,7mer-m8
+968,MAGED4,hsa-miR-4513,7mer-a1
+969,MAZ,hsa-miR-135a,7mer-m8
+970,MAZ,hsa-miR-135a,wobbled 7mer
+971,MAZ,hsa-miR-33b,g-bulged 6mer
+972,MAZ,hsa-miR-377,7mer-m8
+973,MAZ,hsa-miR-550a,6mer
+974,MAZ,hsa-miR-8072,7mer-m8
+975,MAZ,hsa-miR-8072,7mer-m8
+976,MAZ,hsa-miR-8072,7mer-m8
+977,MAZ,hsa-miR-8072,7mer-m8
+978,MAZ,hsa-miR-942,7mer-a1
+979,MAZ,hsa-miR-942,6mer
+980,MAZ,hsa-miR-219a,6mer
+981,MAZ,hsa-miR-3175,7mer-a1
+982,MAZ,hsa-miR-3175,6mer
+983,MGAT2,hsa-miR-135a,6mer
+984,MGAT2,hsa-miR-135a,6mer
+985,MGAT2,hsa-miR-33b,7mer-m8
+986,MGAT2,hsa-miR-500a,wobbled 7mer
+987,MGAT2,hsa-miR-8072,7mer-m8
+988,MGAT2,hsa-miR-8072,g-bulged 6mer
+989,MGAT2,hsa-miR-942,8mer
+990,MRPL4,hsa-miR-550a,8mer
+991,MRPL4,hsa-miR-550a,6mer
+992,MRPL4,hsa-miR-8072,7mer-m8
+993,MRPL4,hsa-miR-484,7mer-m8
+994,MRPL4,hsa-miR-484,6mer
+995,MRPL4,hsa-miR-484,g-bulged 6mer
+996,MRPL4,hsa-miR-942,g-bulged 6mer
+997,MRPL4,hsa-miR-942,g-bulged 6mer
+998,MRPL4,hsa-miR-3175,7mer-m8
+999,MRPL4,hsa-miR-4513,g-bulged 6mer
+1000,MRPL21,hsa-miR-942,6mer
+1001,MRPL21,hsa-miR-942,6mer
+1002,MSMP,hsa-miR-3175,7mer-a1
+1003,NDUFB2,hsa-miR-500a,8mer
+1004,NDUFS3,hsa-miR-33b,7mer-m8
+1005,NDUFS3,hsa-miR-484,7mer-a1
+1006,NDUFS8,hsa-miR-135a,wobbled 7mer
+1007,NDUFS8,hsa-miR-135a,wobbled 7mer
+1008,NDUFS8,hsa-miR-33b,g-bulged 6mer
+1009,NDUFS8,hsa-miR-8072,6mer
+1010,NDUFS8,hsa-miR-484,g-bulged 6mer
+1011,NDUFS8,hsa-miR-484,g-bulged 6mer
+1012,NDUFS8,hsa-miR-942,6mer
+1013,NDUFS8,hsa-miR-942,6mer
+1014,NDUFS8,hsa-miR-3175,g-bulged 6mer
+1015,NPB,hsa-miR-8072,7mer-m8
+1016,NPB,hsa-miR-8072,7mer-m8
+1017,NPB,hsa-miR-8072,6mer
+1018,NPB,hsa-miR-8072,6mer
+1019,NPB,hsa-miR-8072,6mer
+1020,NPB,hsa-miR-8072,g-bulged 6mer
+1021,NPB,hsa-miR-3175,7mer-m8
+1022,NPB,hsa-miR-3175,6mer
+1023,NPB,hsa-miR-3175,6mer
+1024,NT5C2,hsa-miR-135a,6mer
+1025,NT5C2,hsa-miR-377,7mer-m8
+1026,NT5C2,hsa-miR-377,7mer-m8
+1027,NT5C2,hsa-miR-500a,6mer
+1028,NT5C2,hsa-miR-500a,6mer
+1029,NT5C2,hsa-miR-500a,6mer
+1030,NT5C2,hsa-miR-550a,7mer-m8
+1031,NT5C2,hsa-miR-550a,7mer-a1
+1032,NT5C2,hsa-miR-550a,g-bulged 7mer
+1033,NT5C2,hsa-miR-484,6mer
+1034,NT5C2,hsa-miR-484,6mer
+1035,NT5C2,hsa-miR-484,6mer
+1036,NT5C2,hsa-miR-942,g-bulged 7mer
+1037,NT5C2,hsa-miR-942,6mer
+1038,NT5C2,hsa-miR-942,6mer
+1039,NT5C2,hsa-miR-219a,7mer-a1
+1040,NT5C2,hsa-miR-4708,7mer-a1
+1041,NT5C2,hsa-miR-4708,6mer
+1042,NUDT3,hsa-miR-135a,6mer
+1043,NUDT3,hsa-miR-33b,7mer-a1
+1044,NUDT3,hsa-miR-33b,7mer-a1
+1045,NUDT3,hsa-miR-33b,g-bulged 7mer
+1046,NUDT3,hsa-miR-33b,6mer
+1047,NUDT3,hsa-miR-33b,g-bulged 6mer
+1048,NUDT3,hsa-miR-377,6mer
+1049,NUDT3,hsa-miR-377,6mer
+1050,NUDT3,hsa-miR-377,6mer
+1051,NUDT3,hsa-miR-377,6mer
+1052,NUDT3,hsa-miR-377,g-bulged 6mer
+1053,NUDT3,hsa-miR-500a,7mer-m8
+1054,NUDT3,hsa-miR-500a,6mer
+1055,NUDT3,hsa-miR-500a,6mer
+1056,NUDT3,hsa-miR-500a,6mer
+1057,NUDT3,hsa-miR-550a,6mer
+1058,NUDT3,hsa-miR-550a,g-bulged 6mer
+1059,NUDT3,hsa-miR-8072,6mer
+1060,NUDT3,hsa-miR-8072,g-bulged 6mer
+1061,NUDT3,hsa-miR-484,7mer-m8
+1062,NUDT3,hsa-miR-484,7mer-m8
+1063,NUDT3,hsa-miR-484,7mer-a1
+1064,NUDT3,hsa-miR-484,7mer-a1
+1065,NUDT3,hsa-miR-484,7mer-a1
+1066,NUDT3,hsa-miR-484,6mer
+1067,NUDT3,hsa-miR-484,6mer
+1068,NUDT3,hsa-miR-942,7mer-m8
+1069,NUDT3,hsa-miR-942,7mer-a1
+1070,NUDT3,hsa-miR-942,6mer
+1071,NUDT3,hsa-miR-942,6mer
+1072,NUDT3,hsa-miR-942,g-bulged 6mer
+1073,NUDT3,hsa-miR-942,g-bulged 6mer
+1074,NUDT3,hsa-miR-219a,6mer
+1075,NUDT3,hsa-miR-4708,7mer-m8
+1076,NUDT3,hsa-miR-4708,7mer-a1
+1077,NUDT3,hsa-miR-4708,7mer-a1
+1078,NUDT3,hsa-miR-4708,6mer
+1079,NUDT3,hsa-miR-4708,6mer
+1080,NUDT3,hsa-miR-4708,6mer
+1081,NUDT3,hsa-miR-3175,8mer
+1082,NUDT3,hsa-miR-3175,7mer-m8
+1083,NUDT3,hsa-miR-3175,7mer-m8
+1084,NUDT3,hsa-miR-3175,7mer-a1
+1085,NUDT3,hsa-miR-3175,7mer-a1
+1086,NUDT3,hsa-miR-3175,g-bulged 7mer
+1087,NUDT3,hsa-miR-3175,6mer
+1088,NUDT3,hsa-miR-3175,6mer
+1089,NUDT3,hsa-miR-3175,g-bulged 6mer
+1090,OPN3,hsa-miR-135a,7mer-m8
+1091,OPN3,hsa-miR-135a,6mer
+1092,OPN3,hsa-miR-135a,6mer
+1093,OPN3,hsa-miR-135a,6mer
+1094,OPN3,hsa-miR-33b,7mer-a1
+1095,OPN3,hsa-miR-33b,7mer-a1
+1096,OPN3,hsa-miR-500a,7mer-m8
+1097,OPN3,hsa-miR-500a,7mer-m8
+1098,OPN3,hsa-miR-500a,7mer-a1
+1099,OPN3,hsa-miR-500a,7mer-a1
+1100,OPN3,hsa-miR-500a,6mer
+1101,OPN3,hsa-miR-500a,6mer
+1102,OPN3,hsa-miR-500a,6mer
+1103,OPN3,hsa-miR-550a,6mer
+1104,OPN3,hsa-miR-8072,8mer
+1105,OPN3,hsa-miR-942,8mer
+1106,OPN3,hsa-miR-942,7mer-m8
+1107,OPN3,hsa-miR-942,7mer-a1
+1108,OPN3,hsa-miR-942,g-bulged 7mer
+1109,OPN3,hsa-miR-942,g-bulged 7mer
+1110,OPN3,hsa-miR-942,6mer
+1111,OPN3,hsa-miR-942,6mer
+1112,OPN3,hsa-miR-219a,7mer-m8
+1113,OPN3,hsa-miR-219a,7mer-a1
+1114,OPN3,hsa-miR-219a,7mer-a1
+1115,OPN3,hsa-miR-219a,6mer
+1116,OPN3,hsa-miR-4708,7mer-a1
+1117,OPN3,hsa-miR-4513,7mer-a1
+1118,OPN3,hsa-miR-4513,6mer
+1119,PGAM2,hsa-miR-135a,wobbled 7mer
+1120,PGAM2,hsa-miR-135a,wobbled 7mer
+1121,PGAM2,hsa-miR-550a,6mer
+1122,PGAM2,hsa-miR-8072,7mer-m8
+1123,PGAM2,hsa-miR-8072,g-bulged 6mer
+1124,PGAM2,hsa-miR-484,g-bulged 7mer
+1125,PGAM2,hsa-miR-484,6mer
+1126,PGAM2,hsa-miR-942,6mer
+1127,PGAM2,hsa-miR-3175,7mer-a1
+1128,PGAM2,hsa-miR-3175,6mer
+1129,RAPH1,hsa-miR-135a,wobbled 8mer
+1130,RAPH1,hsa-miR-135a,wobbled 7mer
+1131,RAPH1,hsa-miR-135a,6mer
+1132,RAPH1,hsa-miR-135a,6mer
+1133,RAPH1,hsa-miR-33b,8mer
+1134,RAPH1,hsa-miR-33b,7mer-a1
+1135,RAPH1,hsa-miR-33b,6mer
+1136,RAPH1,hsa-miR-377,7mer-a1
+1137,RAPH1,hsa-miR-377,g-bulged 7mer
+1138,RAPH1,hsa-miR-500a,8mer
+1139,RAPH1,hsa-miR-500a,6mer
+1140,RAPH1,hsa-miR-550a,6mer
+1141,RAPH1,hsa-miR-484,7mer-a1
+1142,RAPH1,hsa-miR-484,6mer
+1143,RAPH1,hsa-miR-484,6mer
+1144,RAPH1,hsa-miR-484,6mer
+1145,RAPH1,hsa-miR-484,6mer
+1146,RAPH1,hsa-miR-484,6mer
+1147,RAPH1,hsa-miR-484,6mer
+1148,RAPH1,hsa-miR-484,6mer
+1149,RAPH1,hsa-miR-942,7mer-m8
+1150,RAPH1,hsa-miR-942,6mer
+1151,RAPH1,hsa-miR-219a,7mer-a1
+1152,RAPH1,hsa-miR-219a,6mer
+1153,RAPH1,hsa-miR-4708,6mer
+1154,RAPH1,hsa-miR-4708,g-bulged 6mer
+1155,RAPH1,hsa-miR-3175,7mer-m8
+1156,RAPH1,hsa-miR-3175,7mer-a1
+1157,RAPH1,hsa-miR-3175,7mer-a1
+1158,RAPH1,hsa-miR-3175,6mer
+1159,RAPH1,hsa-miR-3175,6mer
+1160,RAPH1,hsa-miR-3175,6mer
+1161,RAPH1,hsa-miR-3175,6mer
+1162,RAPH1,hsa-miR-3175,6mer
+1163,RAPH1,hsa-miR-3175,g-bulged 6mer
+1164,RAPH1,hsa-miR-4513,7mer-a1
+1165,RAPH1,hsa-miR-4513,6mer
+1166,RASGRF2,hsa-miR-135a,wobbled 7mer
+1167,RASGRF2,hsa-miR-135a,6mer
+1168,RASGRF2,hsa-miR-33b,6mer
+1169,RASGRF2,hsa-miR-33b,6mer
+1170,RASGRF2,hsa-miR-500a,7mer-a1
+1171,RASGRF2,hsa-miR-550a,g-bulged 6mer
+1172,RASGRF2,hsa-miR-8072,7mer-m8
+1173,RASGRF2,hsa-miR-8072,6mer
+1174,RASGRF2,hsa-miR-484,6mer
+1175,RASGRF2,hsa-miR-484,6mer
+1176,RASGRF2,hsa-miR-484,6mer
+1177,RASGRF2,hsa-miR-484,6mer
+1178,RASGRF2,hsa-miR-942,g-bulged 7mer
+1179,RASGRF2,hsa-miR-942,6mer
+1180,RASGRF2,hsa-miR-219a,7mer-a1
+1181,RASGRF2,hsa-miR-3175,7mer-a1
+1182,RASGRF2,hsa-miR-3175,6mer
+1183,RASGRF2,hsa-miR-4513,7mer-a1
+1184,RASSF2,hsa-miR-135a,7mer-m8
+1185,RASSF2,hsa-miR-135a,7mer-a1
+1186,RASSF2,hsa-miR-135a,6mer
+1187,RASSF2,hsa-miR-33b,7mer-a1
+1188,RASSF2,hsa-miR-33b,6mer
+1189,RASSF2,hsa-miR-33b,6mer
+1190,RASSF2,hsa-miR-377,7mer-m8
+1191,RASSF2,hsa-miR-377,g-bulged 7mer
+1192,RASSF2,hsa-miR-377,6mer
+1193,RASSF2,hsa-miR-377,6mer
+1194,RASSF2,hsa-miR-500a,6mer
+1195,RASSF2,hsa-miR-550a,6mer
+1196,RASSF2,hsa-miR-550a,6mer
+1197,RASSF2,hsa-miR-484,6mer
+1198,RASSF2,hsa-miR-942,8mer
+1199,RASSF2,hsa-miR-942,7mer-a1
+1200,RASSF2,hsa-miR-942,g-bulged 7mer
+1201,RASSF2,hsa-miR-942,g-bulged 7mer
+1202,RASSF2,hsa-miR-942,6mer
+1203,RASSF2,hsa-miR-942,6mer
+1204,RASSF2,hsa-miR-942,g-bulged 6mer
+1205,RASSF2,hsa-miR-219a,6mer
+1206,RASSF2,hsa-miR-219a,6mer
+1207,RASSF2,hsa-miR-4708,7mer-a1
+1208,RASSF2,hsa-miR-4708,6mer
+1209,RASSF2,hsa-miR-4708,6mer
+1210,RASSF2,hsa-miR-4708,6mer
+1211,RASSF2,hsa-miR-3175,8mer
+1212,RASSF2,hsa-miR-3175,7mer-a1
+1213,RASSF2,hsa-miR-3175,g-bulged 6mer
+1214,RFFL,hsa-miR-135a,wobbled 7mer
+1215,RFFL,hsa-miR-135a,6mer
+1216,RFFL,hsa-miR-33b,6mer
+1217,RFFL,hsa-miR-377,7mer-m8
+1218,RFFL,hsa-miR-377,7mer-m8
+1219,RFFL,hsa-miR-377,7mer-a1
+1220,RFFL,hsa-miR-377,6mer
+1221,RFFL,hsa-miR-377,6mer
+1222,RFFL,hsa-miR-500a,7mer-m8
+1223,RFFL,hsa-miR-500a,wobbled 7mer
+1224,RFFL,hsa-miR-8072,7mer-m8
+1225,RFFL,hsa-miR-8072,g-bulged 7mer
+1226,RFFL,hsa-miR-484,8mer
+1227,RFFL,hsa-miR-484,7mer-m8
+1228,RFFL,hsa-miR-484,7mer-m8
+1229,RFFL,hsa-miR-484,7mer-m8
+1230,RFFL,hsa-miR-484,7mer-a1
+1231,RFFL,hsa-miR-484,7mer-a1
+1232,RFFL,hsa-miR-484,g-bulged 7mer
+1233,RFFL,hsa-miR-484,6mer
+1234,RFFL,hsa-miR-484,6mer
+1235,RFFL,hsa-miR-484,6mer
+1236,RFFL,hsa-miR-942,7mer-m8
+1237,RFFL,hsa-miR-942,7mer-a1
+1238,RFFL,hsa-miR-942,6mer
+1239,RFFL,hsa-miR-4708,6mer
+1240,RFFL,hsa-miR-3175,7mer-a1
+1241,RFFL,hsa-miR-3175,6mer
+1242,RFFL,hsa-miR-3175,6mer
+1243,RFFL,hsa-miR-3175,6mer
+1244,RFFL,hsa-miR-3175,6mer
+1245,RFFL,hsa-miR-3175,g-bulged 6mer
+1246,RGPD5,hsa-miR-135a,7mer-a1
+1247,RGPD5,hsa-miR-135a,7mer-a1
+1248,RGPD5,hsa-miR-135a,wobbled 7mer
+1249,RGPD5,hsa-miR-135a,6mer
+1250,RGPD5,hsa-miR-33b,6mer
+1251,RGPD5,hsa-miR-33b,6mer
+1252,RGPD5,hsa-miR-33b,6mer
+1253,RGPD5,hsa-miR-33b,6mer
+1254,RGPD5,hsa-miR-377,7mer-a1
+1255,RGPD5,hsa-miR-377,g-bulged 6mer
+1256,RGPD5,hsa-miR-500a,7mer-m8
+1257,RGPD5,hsa-miR-500a,7mer-m8
+1258,RGPD5,hsa-miR-500a,7mer-m8
+1259,RGPD5,hsa-miR-500a,wobbled 7mer
+1260,RGPD5,hsa-miR-500a,wobbled 7mer
+1261,RGPD5,hsa-miR-550a,g-bulged 7mer
+1262,RGPD5,hsa-miR-550a,g-bulged 6mer
+1263,RGPD5,hsa-miR-8072,g-bulged 6mer
+1264,RGPD5,hsa-miR-484,7mer-a1
+1265,RGPD5,hsa-miR-942,7mer-m8
+1266,RGPD5,hsa-miR-942,7mer-a1
+1267,RGPD5,hsa-miR-942,g-bulged 7mer
+1268,RGPD5,hsa-miR-942,6mer
+1269,RGPD5,hsa-miR-942,6mer
+1270,RGPD5,hsa-miR-942,6mer
+1271,RGPD5,hsa-miR-219a,6mer
+1272,RGPD5,hsa-miR-4708,8mer
+1273,RGPD5,hsa-miR-4708,6mer
+1274,RGPD5,hsa-miR-3175,7mer-a1
+1275,RGPD5,hsa-miR-4513,8mer
+1276,RGPD5,hsa-miR-4513,8mer
+1277,RGPD5,hsa-miR-4513,7mer-a1
+1278,RGPD5,hsa-miR-4513,7mer-a1
+1279,RGPD5,hsa-miR-4513,g-bulged 7mer
+1280,RGPD5,hsa-miR-4513,6mer
+1281,RGPD6,hsa-miR-135a,wobbled 7mer
+1282,RGPD6,hsa-miR-135a,wobbled 7mer
+1283,RGPD6,hsa-miR-33b,6mer
+1284,RGPD6,hsa-miR-33b,6mer
+1285,RGPD6,hsa-miR-33b,6mer
+1286,RGPD6,hsa-miR-33b,6mer
+1287,RGPD6,hsa-miR-377,7mer-a1
+1288,RGPD6,hsa-miR-377,g-bulged 6mer
+1289,RGPD6,hsa-miR-500a,7mer-m8
+1290,RGPD6,hsa-miR-500a,7mer-m8
+1291,RGPD6,hsa-miR-500a,wobbled 7mer
+1292,RGPD6,hsa-miR-550a,g-bulged 7mer
+1293,RGPD6,hsa-miR-942,7mer-m8
+1294,RGPD6,hsa-miR-942,7mer-a1
+1295,RGPD6,hsa-miR-942,g-bulged 7mer
+1296,RGPD6,hsa-miR-942,6mer
+1297,RGPD6,hsa-miR-942,6mer
+1298,RGPD6,hsa-miR-942,6mer
+1299,RGPD6,hsa-miR-942,6mer
+1300,RGPD6,hsa-miR-219a,6mer
+1301,RGPD6,hsa-miR-3175,7mer-a1
+1302,RGPD6,hsa-miR-4513,8mer
+1303,RGPD6,hsa-miR-4513,8mer
+1304,RGPD6,hsa-miR-4513,7mer-a1
+1305,RGPD6,hsa-miR-4513,6mer
+1306,RHOF,hsa-miR-377,6mer
+1307,RHOF,hsa-miR-550a,6mer
+1308,RHOF,hsa-miR-8072,7mer-m8
+1309,RHOF,hsa-miR-8072,7mer-m8
+1310,RHOF,hsa-miR-484,7mer-a1
+1311,RHOF,hsa-miR-484,6mer
+1312,RHOF,hsa-miR-484,6mer
+1313,RHOF,hsa-miR-484,6mer
+1314,RHOF,hsa-miR-484,6mer
+1315,RHOF,hsa-miR-942,6mer
+1316,RHOF,hsa-miR-942,g-bulged 6mer
+1317,RHOF,hsa-miR-4708,6mer
+1318,RHOF,hsa-miR-4708,6mer
+1319,RHOF,hsa-miR-3175,8mer
+1320,RHOF,hsa-miR-3175,7mer-a1
+1321,RHOF,hsa-miR-3175,g-bulged 7mer
+1322,RHOF,hsa-miR-3175,6mer
+1323,SAMD14,hsa-miR-135a,7mer-m8
+1324,SAMD14,hsa-miR-135a,wobbled 7mer
+1325,SAMD14,hsa-miR-33b,7mer-m8
+1326,SAMD14,hsa-miR-33b,6mer
+1327,SAMD14,hsa-miR-550a,6mer
+1328,SAMD14,hsa-miR-550a,g-bulged 6mer
+1329,SAMD14,hsa-miR-550a,g-bulged 6mer
+1330,SAMD14,hsa-miR-550a,g-bulged 6mer
+1331,SAMD14,hsa-miR-8072,7mer-m8
+1332,SAMD14,hsa-miR-8072,7mer-m8
+1333,SAMD14,hsa-miR-8072,7mer-m8
+1334,SAMD14,hsa-miR-8072,6mer
+1335,SAMD14,hsa-miR-484,7mer-m8
+1336,SAMD14,hsa-miR-484,7mer-m8
+1337,SAMD14,hsa-miR-484,6mer
+1338,SAMD14,hsa-miR-484,6mer
+1339,SAMD14,hsa-miR-484,6mer
+1340,SAMD14,hsa-miR-484,6mer
+1341,SAMD14,hsa-miR-484,g-bulged 6mer
+1342,SAMD14,hsa-miR-484,g-bulged 6mer
+1343,SAMD14,hsa-miR-484,g-bulged 6mer
+1344,SAMD14,hsa-miR-942,6mer
+1345,SAMD14,hsa-miR-942,6mer
+1346,SAMD14,hsa-miR-942,6mer
+1347,SAMD14,hsa-miR-942,g-bulged 6mer
+1348,SAMD14,hsa-miR-4708,g-bulged 7mer
+1349,SAMD14,hsa-miR-3175,7mer-m8
+1350,SAMD14,hsa-miR-3175,g-bulged 7mer
+1351,SAMD14,hsa-miR-3175,g-bulged 7mer
+1352,SAMD14,hsa-miR-3175,6mer
+1353,SAMD14,hsa-miR-3175,6mer
+1354,SAMD14,hsa-miR-3175,6mer
+1355,SAMD14,hsa-miR-3175,6mer
+1356,SAMD14,hsa-miR-3175,6mer
+1357,SAMD14,hsa-miR-3175,6mer
+1358,SAMD14,hsa-miR-4513,6mer
+1359,SAMD14,hsa-miR-4513,6mer
+1360,SAMD14,hsa-miR-4513,6mer
+1361,SARM1,hsa-miR-135a,wobbled 8mer
+1362,SARM1,hsa-miR-135a,wobbled 8mer
+1363,SARM1,hsa-miR-135a,6mer
+1364,SARM1,hsa-miR-135a,6mer
+1365,SARM1,hsa-miR-135a,6mer
+1366,SARM1,hsa-miR-135a,6mer
+1367,SARM1,hsa-miR-135a,6mer
+1368,SARM1,hsa-miR-33b,g-bulged 6mer
+1369,SARM1,hsa-miR-377,6mer
+1370,SARM1,hsa-miR-377,6mer
+1371,SARM1,hsa-miR-377,g-bulged 6mer
+1372,SARM1,hsa-miR-377,g-bulged 6mer
+1373,SARM1,hsa-miR-500a,7mer-m8
+1374,SARM1,hsa-miR-500a,7mer-m8
+1375,SARM1,hsa-miR-500a,7mer-m8
+1376,SARM1,hsa-miR-500a,7mer-a1
+1377,SARM1,hsa-miR-500a,6mer
+1378,SARM1,hsa-miR-500a,6mer
+1379,SARM1,hsa-miR-550a,7mer-m8
+1380,SARM1,hsa-miR-550a,7mer-a1
+1381,SARM1,hsa-miR-550a,g-bulged 7mer
+1382,SARM1,hsa-miR-550a,6mer
+1383,SARM1,hsa-miR-8072,8mer
+1384,SARM1,hsa-miR-8072,7mer-m8
+1385,SARM1,hsa-miR-484,8mer
+1386,SARM1,hsa-miR-484,7mer-m8
+1387,SARM1,hsa-miR-484,7mer-a1
+1388,SARM1,hsa-miR-484,7mer-a1
+1389,SARM1,hsa-miR-484,6mer
+1390,SARM1,hsa-miR-484,6mer
+1391,SARM1,hsa-miR-484,6mer
+1392,SARM1,hsa-miR-484,6mer
+1393,SARM1,hsa-miR-484,6mer
+1394,SARM1,hsa-miR-484,g-bulged 6mer
+1395,SARM1,hsa-miR-484,g-bulged 6mer
+1396,SARM1,hsa-miR-484,g-bulged 6mer
+1397,SARM1,hsa-miR-484,g-bulged 6mer
+1398,SARM1,hsa-miR-942,7mer-m8
+1399,SARM1,hsa-miR-942,7mer-a1
+1400,SARM1,hsa-miR-942,7mer-a1
+1401,SARM1,hsa-miR-942,g-bulged 7mer
+1402,SARM1,hsa-miR-942,6mer
+1403,SARM1,hsa-miR-942,6mer
+1404,SARM1,hsa-miR-942,6mer
+1405,SARM1,hsa-miR-942,6mer
+1406,SARM1,hsa-miR-942,6mer
+1407,SARM1,hsa-miR-942,g-bulged 6mer
+1408,SARM1,hsa-miR-942,g-bulged 6mer
+1409,SARM1,hsa-miR-4708,8mer
+1410,SARM1,hsa-miR-4708,6mer
+1411,SARM1,hsa-miR-4708,6mer
+1412,SARM1,hsa-miR-4708,6mer
+1413,SARM1,hsa-miR-4708,6mer
+1414,SARM1,hsa-miR-4708,6mer
+1415,SARM1,hsa-miR-4708,g-bulged 6mer
+1416,SARM1,hsa-miR-4708,g-bulged 6mer
+1417,SARM1,hsa-miR-3175,8mer
+1418,SARM1,hsa-miR-3175,7mer-m8
+1419,SARM1,hsa-miR-3175,6mer
+1420,SARM1,hsa-miR-3175,6mer
+1421,SARM1,hsa-miR-3175,6mer
+1422,SARM1,hsa-miR-3175,6mer
+1423,SARM1,hsa-miR-3175,6mer
+1424,SARM1,hsa-miR-3175,6mer
+1425,SARM1,hsa-miR-3175,6mer
+1426,SARM1,hsa-miR-3175,6mer
+1427,SARM1,hsa-miR-4513,6mer
+1428,SCGB1D2,hsa-miR-377,g-bulged 7mer
+1429,SCGB1D2,hsa-miR-377,6mer
+1430,SERINC4,hsa-miR-500a,6mer
+1431,SERINC4,hsa-miR-500a,6mer
+1432,SERINC4,hsa-miR-8072,7mer-m8
+1433,SERINC4,hsa-miR-484,7mer-a1
+1434,SERINC4,hsa-miR-942,g-bulged 7mer
+1435,SERINC4,hsa-miR-4708,7mer-m8
+1436,SERINC4,hsa-miR-3175,6mer
+1437,SFN,hsa-miR-135a,wobbled 7mer
+1438,SFN,hsa-miR-135a,wobbled 7mer
+1439,SFN,hsa-miR-135a,wobbled 7mer
+1440,SFN,hsa-miR-135a,6mer
+1441,SFN,hsa-miR-8072,7mer-m8
+1442,SFN,hsa-miR-942,6mer
+1443,SFN,hsa-miR-942,6mer
+1444,SFN,hsa-miR-942,6mer
+1445,SFN,hsa-miR-4708,6mer
+1446,SFN,hsa-miR-3175,7mer-m8
+1447,SFN,hsa-miR-3175,7mer-m8
+1448,SFN,hsa-miR-3175,7mer-a1
+1449,SFN,hsa-miR-3175,g-bulged 6mer
+1450,SFN,hsa-miR-3175,g-bulged 6mer
+1451,SFT2D3,hsa-miR-33b,7mer-m8
+1452,SFT2D3,hsa-miR-33b,6mer
+1453,SFT2D3,hsa-miR-500a,7mer-m8
+1454,SFT2D3,hsa-miR-8072,6mer
+1455,SFT2D3,hsa-miR-8072,6mer
+1456,SFT2D3,hsa-miR-8072,6mer
+1457,SFT2D3,hsa-miR-8072,6mer
+1458,SFT2D3,hsa-miR-8072,g-bulged 6mer
+1459,SFT2D3,hsa-miR-484,6mer
+1460,SFT2D3,hsa-miR-484,6mer
+1461,SFT2D3,hsa-miR-484,6mer
+1462,SFT2D3,hsa-miR-942,6mer
+1463,SFT2D3,hsa-miR-4708,6mer
+1464,SFT2D3,hsa-miR-3175,7mer-a1
+1465,SFT2D3,hsa-miR-3175,g-bulged 7mer
+1466,SH3D19,hsa-miR-33b,g-bulged 7mer
+1467,SH3D19,hsa-miR-33b,6mer
+1468,SH3D19,hsa-miR-377,8mer
+1469,SH3D19,hsa-miR-377,7mer-a1
+1470,SH3D19,hsa-miR-377,7mer-a1
+1471,SH3D19,hsa-miR-377,6mer
+1472,SH3D19,hsa-miR-377,g-bulged 6mer
+1473,SH3D19,hsa-miR-500a,7mer-m8
+1474,SH3D19,hsa-miR-500a,7mer-a1
+1475,SH3D19,hsa-miR-500a,6mer
+1476,SH3D19,hsa-miR-550a,7mer-m8
+1477,SH3D19,hsa-miR-550a,7mer-a1
+1478,SH3D19,hsa-miR-484,7mer-m8
+1479,SH3D19,hsa-miR-484,6mer
+1480,SH3D19,hsa-miR-942,7mer-a1
+1481,SH3D19,hsa-miR-942,7mer-a1
+1482,SH3D19,hsa-miR-942,7mer-a1
+1483,SH3D19,hsa-miR-942,6mer
+1484,SH3D19,hsa-miR-942,6mer
+1485,SH3D19,hsa-miR-942,6mer
+1486,SH3D19,hsa-miR-942,g-bulged 6mer
+1487,SH3D19,hsa-miR-219a,8mer
+1488,SH3D19,hsa-miR-4708,7mer-a1
+1489,SH3D19,hsa-miR-4708,g-bulged 6mer
+1490,SH3D19,hsa-miR-4708,g-bulged 6mer
+1491,SH3D19,hsa-miR-3175,8mer
+1492,SH3D19,hsa-miR-3175,6mer
+1493,SH3D19,hsa-miR-3175,6mer
+1494,SH3D19,hsa-miR-3175,6mer
+1495,SH3D19,hsa-miR-3175,g-bulged 6mer
+1496,SHROOM4,hsa-miR-135a,6mer
+1497,SHROOM4,hsa-miR-135a,6mer
+1498,SHROOM4,hsa-miR-135a,6mer
+1499,SHROOM4,hsa-miR-33b,7mer-m8
+1500,SHROOM4,hsa-miR-377,7mer-m8
+1501,SHROOM4,hsa-miR-377,6mer
+1502,SHROOM4,hsa-miR-550a,7mer-a1
+1503,SHROOM4,hsa-miR-484,7mer-m8
+1504,SHROOM4,hsa-miR-484,7mer-m8
+1505,SHROOM4,hsa-miR-484,7mer-m8
+1506,SHROOM4,hsa-miR-484,6mer
+1507,SHROOM4,hsa-miR-484,g-bulged 6mer
+1508,SHROOM4,hsa-miR-942,8mer
+1509,SHROOM4,hsa-miR-942,g-bulged 6mer
+1510,SHROOM4,hsa-miR-4708,7mer-a1
+1511,SHROOM4,hsa-miR-4708,7mer-a1
+1512,SHROOM4,hsa-miR-4708,6mer
+1513,SHROOM4,hsa-miR-4513,7mer-a1
+1514,SHROOM4,hsa-miR-4513,7mer-a1
+1515,SLC7A6,hsa-miR-135a,wobbled 7mer
+1516,SLC7A6,hsa-miR-135a,wobbled 7mer
+1517,SLC7A6,hsa-miR-135a,6mer
+1518,SLC7A6,hsa-miR-33b,7mer-m8
+1519,SLC7A6,hsa-miR-33b,7mer-a1
+1520,SLC7A6,hsa-miR-33b,6mer
+1521,SLC7A6,hsa-miR-33b,g-bulged 6mer
+1522,SLC7A6,hsa-miR-377,8mer
+1523,SLC7A6,hsa-miR-377,7mer-m8
+1524,SLC7A6,hsa-miR-377,7mer-a1
+1525,SLC7A6,hsa-miR-377,7mer-a1
+1526,SLC7A6,hsa-miR-377,6mer
+1527,SLC7A6,hsa-miR-377,6mer
+1528,SLC7A6,hsa-miR-377,6mer
+1529,SLC7A6,hsa-miR-500a,6mer
+1530,SLC7A6,hsa-miR-550a,6mer
+1531,SLC7A6,hsa-miR-484,7mer-m8
+1532,SLC7A6,hsa-miR-484,g-bulged 7mer
+1533,SLC7A6,hsa-miR-484,6mer
+1534,SLC7A6,hsa-miR-484,6mer
+1535,SLC7A6,hsa-miR-484,g-bulged 6mer
+1536,SLC7A6,hsa-miR-484,g-bulged 6mer
+1537,SLC7A6,hsa-miR-942,7mer-a1
+1538,SLC7A6,hsa-miR-219a,7mer-m8
+1539,SLC7A6,hsa-miR-4708,7mer-a1
+1540,SLC7A6,hsa-miR-4708,g-bulged 7mer
+1541,SLC7A6,hsa-miR-4708,g-bulged 6mer
+1542,SLC7A6,hsa-miR-3175,7mer-m8
+1543,SLC7A6,hsa-miR-3175,7mer-m8
+1544,SLC7A6,hsa-miR-3175,7mer-a1
+1545,SLC7A6,hsa-miR-3175,6mer
+1546,SLC7A6,hsa-miR-3175,6mer
+1547,SLC7A6,hsa-miR-3175,6mer
+1548,SLC7A6,hsa-miR-3175,g-bulged 6mer
+1549,SLC7A6,hsa-miR-4513,8mer
+1550,SLC7A6,hsa-miR-4513,6mer
+1551,SLC7A6OS,hsa-miR-500a,6mer
+1552,SLC7A6OS,hsa-miR-500a,6mer
+1553,SLC7A6OS,hsa-miR-4513,g-bulged 7mer
+1554,SLC31A2,hsa-miR-135a,7mer-m8
+1555,SLC31A2,hsa-miR-135a,7mer-m8
+1556,SLC31A2,hsa-miR-135a,7mer-m8
+1557,SLC31A2,hsa-miR-377,7mer-m8
+1558,SLC31A2,hsa-miR-377,6mer
+1559,SLC31A2,hsa-miR-550a,7mer-m8
+1560,SLC31A2,hsa-miR-550a,6mer
+1561,SLC31A2,hsa-miR-942,6mer
+1562,SLC31A2,hsa-miR-4708,6mer
+1563,SLC31A2,hsa-miR-4708,g-bulged 6mer
+1564,SMAP1,hsa-miR-33b,g-bulged 6mer
+1565,SMAP1,hsa-miR-550a,7mer-m8
+1566,SMAP1,hsa-miR-550a,6mer
+1567,SMAP1,hsa-miR-550a,6mer
+1568,SMAP1,hsa-miR-484,7mer-m8
+1569,SMAP1,hsa-miR-484,6mer
+1570,SMAP1,hsa-miR-484,6mer
+1571,SMAP1,hsa-miR-484,g-bulged 6mer
+1572,SMAP1,hsa-miR-942,6mer
+1573,SMAP1,hsa-miR-942,6mer
+1574,SMAP1,hsa-miR-3175,g-bulged 6mer
+1575,SMAP1,hsa-miR-4513,7mer-a1
+1576,SMIM22,hsa-miR-500a,6mer
+1577,SMIM22,hsa-miR-550a,8mer
+1578,SMIM22,hsa-miR-484,8mer
+1579,SMIM22,hsa-miR-3175,6mer
+1580,SMIM22,hsa-miR-4513,7mer-a1
+1581,SMIM22,hsa-miR-4513,7mer-a1
+1582,SPATA21,hsa-miR-550a,6mer
+1583,SPATA21,hsa-miR-484,8mer
+1584,SPATA21,hsa-miR-484,g-bulged 7mer
+1585,SPATA21,hsa-miR-484,6mer
+1586,SPATA21,hsa-miR-484,6mer
+1587,SPATA21,hsa-miR-484,g-bulged 6mer
+1588,SPATA21,hsa-miR-942,6mer
+1589,SPATA21,hsa-miR-942,6mer
+1590,SPATA21,hsa-miR-942,6mer
+1591,SPATA21,hsa-miR-942,g-bulged 6mer
+1592,SPATA21,hsa-miR-3175,7mer-a1
+1593,SPATA21,hsa-miR-3175,g-bulged 6mer
+1594,SPSB3,hsa-miR-484,6mer
+1595,SPSB3,hsa-miR-484,6mer
+1596,SPSB3,hsa-miR-942,g-bulged 7mer
+1597,SPSB3,hsa-miR-3175,g-bulged 7mer
+1598,SPSB3,hsa-miR-4513,6mer
+1599,SYNC,hsa-miR-135a,wobbled 7mer
+1600,SYNC,hsa-miR-33b,7mer-m8
+1601,SYNC,hsa-miR-377,6mer
+1602,SYNC,hsa-miR-377,6mer
+1603,SYNC,hsa-miR-500a,8mer
+1604,SYNC,hsa-miR-484,7mer-m8
+1605,SYNC,hsa-miR-484,7mer-m8
+1606,SYNC,hsa-miR-484,g-bulged 6mer
+1607,SYNC,hsa-miR-942,7mer-m8
+1608,SYNC,hsa-miR-942,6mer
+1609,SYNC,hsa-miR-4708,g-bulged 7mer
+1610,SYNC,hsa-miR-3175,7mer-m8
+1611,SYNC,hsa-miR-4513,6mer
+1612,TBC1D14,hsa-miR-135a,6mer
+1613,TBC1D14,hsa-miR-135a,6mer
+1614,TBC1D14,hsa-miR-8072,7mer-m8
+1615,TBC1D14,hsa-miR-8072,g-bulged 6mer
+1616,TBC1D14,hsa-miR-484,6mer
+1617,TBC1D14,hsa-miR-484,6mer
+1618,TBC1D14,hsa-miR-484,g-bulged 6mer
+1619,TBC1D14,hsa-miR-942,7mer-m8
+1620,TBC1D14,hsa-miR-942,7mer-a1
+1621,TBC1D14,hsa-miR-942,g-bulged 7mer
+1622,TBC1D14,hsa-miR-942,6mer
+1623,TBC1D14,hsa-miR-942,g-bulged 6mer
+1624,TBC1D14,hsa-miR-219a,7mer-m8
+1625,TBC1D14,hsa-miR-4708,7mer-a1
+1626,TBC1D14,hsa-miR-4708,g-bulged 6mer
+1627,TBC1D14,hsa-miR-3175,7mer-a1
+1628,TBC1D14,hsa-miR-3175,g-bulged 6mer
+1629,TBC1D14,hsa-miR-3175,g-bulged 6mer
+1630,TBC1D14,hsa-miR-3175,g-bulged 6mer
+1631,TBC1D14,hsa-miR-4513,6mer
+1632,TIGD7,hsa-miR-135a,6mer
+1633,TIGD7,hsa-miR-33b,7mer-a1
+1634,TIGD7,hsa-miR-33b,g-bulged 7mer
+1635,TIGD7,hsa-miR-33b,6mer
+1636,TIGD7,hsa-miR-33b,6mer
+1637,TIGD7,hsa-miR-500a,6mer
+1638,TIGD7,hsa-miR-942,7mer-a1
+1639,TIGD7,hsa-miR-942,6mer
+1640,TIGD7,hsa-miR-942,6mer
+1641,TIGD7,hsa-miR-4708,7mer-m8
+1642,TIGD7,hsa-miR-4708,6mer
+1643,TIGD7,hsa-miR-4513,7mer-a1
+1644,TIGD7,hsa-miR-4513,6mer
+1645,TMEM187,hsa-miR-135a,wobbled 7mer
+1646,TMEM187,hsa-miR-135a,6mer
+1647,TMEM187,hsa-miR-550a,7mer-m8
+1648,TMEM187,hsa-miR-8072,6mer
+1649,TMEM187,hsa-miR-484,6mer
+1650,TMEM187,hsa-miR-484,g-bulged 6mer
+1651,TMEM187,hsa-miR-942,6mer
+1652,TMEM187,hsa-miR-3175,g-bulged 7mer
+1653,TSPAN18,hsa-miR-135a,wobbled 7mer
+1654,TSPAN18,hsa-miR-135a,wobbled 7mer
+1655,TSPAN18,hsa-miR-135a,wobbled 7mer
+1656,TSPAN18,hsa-miR-135a,6mer
+1657,TSPAN18,hsa-miR-500a,6mer
+1658,TSPAN18,hsa-miR-500a,6mer
+1659,TSPAN18,hsa-miR-550a,7mer-m8
+1660,TSPAN18,hsa-miR-8072,7mer-m8
+1661,TSPAN18,hsa-miR-8072,7mer-m8
+1662,TSPAN18,hsa-miR-8072,6mer
+1663,TSPAN18,hsa-miR-8072,g-bulged 6mer
+1664,TSPAN18,hsa-miR-484,7mer-a1
+1665,TSPAN18,hsa-miR-484,6mer
+1666,TSPAN18,hsa-miR-484,g-bulged 6mer
+1667,TSPAN18,hsa-miR-484,g-bulged 6mer
+1668,TSPAN18,hsa-miR-942,7mer-m8
+1669,TSPAN18,hsa-miR-942,7mer-a1
+1670,TSPAN18,hsa-miR-942,6mer
+1671,TSPAN18,hsa-miR-942,g-bulged 6mer
+1672,TSPAN18,hsa-miR-4708,7mer-m8
+1673,TSPAN18,hsa-miR-4708,7mer-a1
+1674,TSPAN18,hsa-miR-3175,8mer
+1675,TSPAN18,hsa-miR-3175,7mer-m8
+1676,TSPAN18,hsa-miR-3175,7mer-a1
+1677,TSPAN18,hsa-miR-3175,7mer-a1
+1678,TSPAN18,hsa-miR-3175,7mer-a1
+1679,TSPAN18,hsa-miR-3175,6mer
+1680,TSPAN18,hsa-miR-3175,6mer
+1681,TSPAN18,hsa-miR-3175,6mer
+1682,TSPAN18,hsa-miR-3175,g-bulged 6mer
+1683,TSPAN18,hsa-miR-3175,g-bulged 6mer
+1684,TSPAN18,hsa-miR-3175,g-bulged 6mer
+1685,TSSK2,hsa-miR-550a,7mer-a1
+1686,TSSK2,hsa-miR-484,7mer-m8
+1687,TSSK2,hsa-miR-4708,6mer
+1688,TTBK2,hsa-miR-135a,wobbled 7mer
+1689,TTBK2,hsa-miR-135a,6mer
+1690,TTBK2,hsa-miR-33b,8mer
+1691,TTBK2,hsa-miR-33b,7mer-a1
+1692,TTBK2,hsa-miR-33b,7mer-a1
+1693,TTBK2,hsa-miR-33b,g-bulged 7mer
+1694,TTBK2,hsa-miR-33b,6mer
+1695,TTBK2,hsa-miR-33b,6mer
+1696,TTBK2,hsa-miR-33b,6mer
+1697,TTBK2,hsa-miR-33b,6mer
+1698,TTBK2,hsa-miR-33b,6mer
+1699,TTBK2,hsa-miR-377,7mer-a1
+1700,TTBK2,hsa-miR-377,7mer-a1
+1701,TTBK2,hsa-miR-377,g-bulged 7mer
+1702,TTBK2,hsa-miR-377,6mer
+1703,TTBK2,hsa-miR-377,6mer
+1704,TTBK2,hsa-miR-500a,7mer-a1
+1705,TTBK2,hsa-miR-500a,wobbled 7mer
+1706,TTBK2,hsa-miR-500a,6mer
+1707,TTBK2,hsa-miR-484,8mer
+1708,TTBK2,hsa-miR-484,6mer
+1709,TTBK2,hsa-miR-484,6mer
+1710,TTBK2,hsa-miR-484,6mer
+1711,TTBK2,hsa-miR-484,g-bulged 6mer
+1712,TTBK2,hsa-miR-942,8mer
+1713,TTBK2,hsa-miR-942,7mer-a1
+1714,TTBK2,hsa-miR-942,g-bulged 7mer
+1715,TTBK2,hsa-miR-942,6mer
+1716,TTBK2,hsa-miR-942,6mer
+1717,TTBK2,hsa-miR-942,6mer
+1718,TTBK2,hsa-miR-942,6mer
+1719,TTBK2,hsa-miR-942,6mer
+1720,TTBK2,hsa-miR-942,g-bulged 6mer
+1721,TTBK2,hsa-miR-942,g-bulged 6mer
+1722,TTBK2,hsa-miR-219a,6mer
+1723,TTBK2,hsa-miR-219a,6mer
+1724,TTBK2,hsa-miR-219a,6mer
+1725,TTBK2,hsa-miR-219a,6mer
+1726,TTBK2,hsa-miR-4708,7mer-m8
+1727,TTBK2,hsa-miR-4708,7mer-a1
+1728,TTBK2,hsa-miR-4708,6mer
+1729,TTBK2,hsa-miR-4708,6mer
+1730,TTBK2,hsa-miR-3175,7mer-a1
+1731,TTBK2,hsa-miR-4513,8mer
+1732,TTBK2,hsa-miR-4513,6mer
+1733,TTBK2,hsa-miR-4513,g-bulged 6mer
+1734,UFSP1,hsa-miR-550a,7mer-m8
+1735,UFSP1,hsa-miR-8072,6mer
+1736,UFSP1,hsa-miR-484,8mer
+1737,UFSP1,hsa-miR-484,6mer
+1738,UQCRH,hsa-miR-377,7mer-a1
+1739,UQCRH,hsa-miR-500a,6mer
+1740,USP34,hsa-miR-135a,8mer
+1741,USP34,hsa-miR-135a,7mer-a1
+1742,USP34,hsa-miR-33b,7mer-m8
+1743,USP34,hsa-miR-33b,7mer-a1
+1744,USP34,hsa-miR-33b,g-bulged 7mer
+1745,USP34,hsa-miR-33b,6mer
+1746,USP34,hsa-miR-33b,g-bulged 6mer
+1747,USP34,hsa-miR-33b,g-bulged 6mer
+1748,USP34,hsa-miR-377,7mer-a1
+1749,USP34,hsa-miR-500a,8mer
+1750,USP34,hsa-miR-500a,7mer-m8
+1751,USP34,hsa-miR-500a,7mer-m8
+1752,USP34,hsa-miR-500a,wobbled 7mer
+1753,USP34,hsa-miR-500a,6mer
+1754,USP34,hsa-miR-550a,6mer
+1755,USP34,hsa-miR-550a,g-bulged 6mer
+1756,USP34,hsa-miR-8072,7mer-m8
+1757,USP34,hsa-miR-8072,7mer-m8
+1758,USP34,hsa-miR-484,6mer
+1759,USP34,hsa-miR-942,8mer
+1760,USP34,hsa-miR-942,7mer-m8
+1761,USP34,hsa-miR-942,7mer-a1
+1762,USP34,hsa-miR-942,g-bulged 7mer
+1763,USP34,hsa-miR-942,g-bulged 7mer
+1764,USP34,hsa-miR-942,g-bulged 7mer
+1765,USP34,hsa-miR-942,g-bulged 7mer
+1766,USP34,hsa-miR-942,g-bulged 7mer
+1767,USP34,hsa-miR-942,g-bulged 7mer
+1768,USP34,hsa-miR-942,g-bulged 7mer
+1769,USP34,hsa-miR-942,6mer
+1770,USP34,hsa-miR-942,6mer
+1771,USP34,hsa-miR-942,6mer
+1772,USP34,hsa-miR-942,6mer
+1773,USP34,hsa-miR-942,6mer
+1774,USP34,hsa-miR-219a,6mer
+1775,USP34,hsa-miR-219a,6mer
+1776,USP34,hsa-miR-219a,6mer
+1777,USP34,hsa-miR-4708,7mer-m8
+1778,USP34,hsa-miR-4708,7mer-a1
+1779,USP34,hsa-miR-4708,6mer
+1780,USP34,hsa-miR-4708,g-bulged 6mer
+1781,USP34,hsa-miR-4708,g-bulged 6mer
+1782,USP34,hsa-miR-4708,g-bulged 6mer
+1783,USP34,hsa-miR-3175,8mer
+1784,USP34,hsa-miR-3175,7mer-m8
+1785,USP34,hsa-miR-3175,7mer-m8
+1786,USP34,hsa-miR-3175,7mer-m8
+1787,USP34,hsa-miR-3175,6mer
+1788,USP34,hsa-miR-3175,6mer
+1789,USP34,hsa-miR-3175,6mer
+1790,USP34,hsa-miR-3175,6mer
+1791,USP34,hsa-miR-4513,7mer-m8
+1792,USP34,hsa-miR-4513,7mer-a1
+1793,USP34,hsa-miR-4513,6mer
+1794,USP34,hsa-miR-4513,6mer
+1795,USP34,hsa-miR-4513,6mer
+1796,USP37,hsa-miR-135a,wobbled 7mer
+1797,USP37,hsa-miR-135a,6mer
+1798,USP37,hsa-miR-135a,6mer
+1799,USP37,hsa-miR-135a,6mer
+1800,USP37,hsa-miR-33b,7mer-m8
+1801,USP37,hsa-miR-33b,6mer
+1802,USP37,hsa-miR-33b,g-bulged 6mer
+1803,USP37,hsa-miR-377,7mer-a1
+1804,USP37,hsa-miR-377,g-bulged 6mer
+1805,USP37,hsa-miR-500a,7mer-m8
+1806,USP37,hsa-miR-500a,7mer-a1
+1807,USP37,hsa-miR-500a,6mer
+1808,USP37,hsa-miR-550a,8mer
+1809,USP37,hsa-miR-550a,7mer-m8
+1810,USP37,hsa-miR-550a,6mer
+1811,USP37,hsa-miR-484,8mer
+1812,USP37,hsa-miR-942,7mer-a1
+1813,USP37,hsa-miR-942,7mer-a1
+1814,USP37,hsa-miR-942,7mer-a1
+1815,USP37,hsa-miR-942,6mer
+1816,USP37,hsa-miR-942,6mer
+1817,USP37,hsa-miR-942,6mer
+1818,USP37,hsa-miR-942,g-bulged 6mer
+1819,USP37,hsa-miR-219a,8mer
+1820,USP37,hsa-miR-219a,7mer-a1
+1821,USP37,hsa-miR-219a,7mer-a1
+1822,USP37,hsa-miR-219a,6mer
+1823,USP37,hsa-miR-4708,7mer-m8
+1824,USP37,hsa-miR-4708,7mer-a1
+1825,USP37,hsa-miR-4708,7mer-a1
+1826,USP37,hsa-miR-4708,g-bulged 7mer
+1827,USP37,hsa-miR-4708,6mer
+1828,USP37,hsa-miR-3175,7mer-a1
+1829,USP37,hsa-miR-3175,7mer-a1
+1830,USP37,hsa-miR-4513,8mer
+1831,USP37,hsa-miR-4513,7mer-a1
+1832,ZACN,hsa-miR-135a,6mer
+1833,ZACN,hsa-miR-550a,6mer
+1834,ZACN,hsa-miR-550a,6mer
+1835,ZACN,hsa-miR-942,7mer-m8
+1836,ZACN,hsa-miR-942,7mer-m8
+1837,ZACN,hsa-miR-4708,7mer-a1
+1838,ZACN,hsa-miR-4708,6mer
+1839,ZACN,hsa-miR-3175,g-bulged 6mer
+1840,ZC3H11B,hsa-miR-377,7mer-a1
+1841,ZC3H11B,hsa-miR-500a,wobbled 7mer
+1842,ZC3H11B,hsa-miR-550a,6mer
+1843,ZC3H11B,hsa-miR-484,7mer-m8
+1844,ZC3H11B,hsa-miR-484,7mer-m8
+1845,ZC3H11B,hsa-miR-484,7mer-m8
+1846,ZC3H11B,hsa-miR-484,6mer
+1847,ZC3H11B,hsa-miR-484,6mer
+1848,ZC3H11B,hsa-miR-942,8mer
+1849,ZC3H11B,hsa-miR-942,7mer-a1
+1850,ZC3H11B,hsa-miR-942,7mer-a1
+1851,ZC3H11B,hsa-miR-942,g-bulged 7mer
+1852,ZC3H11B,hsa-miR-942,6mer
+1853,ZC3H11B,hsa-miR-942,g-bulged 6mer
+1854,ZC3H11B,hsa-miR-942,g-bulged 6mer
+1855,ZC3H11B,hsa-miR-942,g-bulged 6mer
+1856,ZC3H11B,hsa-miR-219a,8mer
+1857,ZC3H11B,hsa-miR-3175,6mer
+1858,ZC3H11B,hsa-miR-4513,7mer-a1
+1859,ZC3H11B,hsa-miR-4513,6mer
+1860,ZC3H11B,hsa-miR-4513,6mer
+1861,ZC3H11B,hsa-miR-4513,6mer
+1862,ZFPL1,hsa-miR-135a,6mer
+1863,ZFPL1,hsa-miR-33b,g-bulged 6mer
+1864,ZFPL1,hsa-miR-550a,g-bulged 6mer
+1865,ZFPL1,hsa-miR-8072,g-bulged 6mer
+1866,ZFPL1,hsa-miR-484,g-bulged 6mer
+1867,ZFPL1,hsa-miR-942,7mer-m8
+1868,ZFPL1,hsa-miR-3175,g-bulged 7mer
+1869,ZFPL1,hsa-miR-3175,g-bulged 6mer
+1870,ZNF224,hsa-miR-135a,8mer
+1871,ZNF224,hsa-miR-135a,8mer
+1872,ZNF224,hsa-miR-135a,8mer
+1873,ZNF224,hsa-miR-135a,8mer
+1874,ZNF224,hsa-miR-135a,7mer-m8
+1875,ZNF224,hsa-miR-135a,7mer-a1
+1876,ZNF224,hsa-miR-33b,g-bulged 7mer
+1877,ZNF224,hsa-miR-33b,6mer
+1878,ZNF224,hsa-miR-33b,6mer
+1879,ZNF224,hsa-miR-500a,7mer-m8
+1880,ZNF224,hsa-miR-550a,7mer-a1
+1881,ZNF224,hsa-miR-484,6mer
+1882,ZNF224,hsa-miR-942,g-bulged 7mer
+1883,ZNF224,hsa-miR-942,6mer
+1884,ZNF224,hsa-miR-942,6mer
+1885,ZNF224,hsa-miR-942,g-bulged 6mer
+1886,ZNF224,hsa-miR-4708,7mer-a1
+1887,ZNF224,hsa-miR-4708,g-bulged 7mer
+1888,ZNF224,hsa-miR-4513,7mer-a1
+1889,ZNF224,hsa-miR-4513,6mer
+1890,ZNF224,hsa-miR-4513,6mer
+1891,ZNF337,hsa-miR-135a,wobbled 7mer
+1892,ZNF337,hsa-miR-135a,6mer
+1893,ZNF337,hsa-miR-33b,7mer-m8
+1894,ZNF337,hsa-miR-377,7mer-m8
+1895,ZNF337,hsa-miR-377,7mer-m8
+1896,ZNF337,hsa-miR-377,6mer
+1897,ZNF337,hsa-miR-500a,7mer-m8
+1898,ZNF337,hsa-miR-500a,7mer-m8
+1899,ZNF337,hsa-miR-500a,7mer-m8
+1900,ZNF337,hsa-miR-500a,7mer-m8
+1901,ZNF337,hsa-miR-500a,wobbled 7mer
+1902,ZNF337,hsa-miR-550a,g-bulged 7mer
+1903,ZNF337,hsa-miR-550a,6mer
+1904,ZNF337,hsa-miR-484,g-bulged 6mer
+1905,ZNF337,hsa-miR-484,g-bulged 6mer
+1906,ZNF337,hsa-miR-942,7mer-m8
+1907,ZNF337,hsa-miR-942,7mer-m8
+1908,ZNF337,hsa-miR-942,7mer-m8
+1909,ZNF337,hsa-miR-942,7mer-m8
+1910,ZNF337,hsa-miR-942,7mer-m8
+1911,ZNF337,hsa-miR-942,7mer-m8
+1912,ZNF337,hsa-miR-942,6mer
+1913,ZNF337,hsa-miR-942,6mer
+1914,ZNF337,hsa-miR-942,6mer
+1915,ZNF337,hsa-miR-942,6mer
+1916,ZNF337,hsa-miR-942,6mer
+1917,ZNF337,hsa-miR-942,6mer
+1918,ZNF337,hsa-miR-942,6mer
+1919,ZNF337,hsa-miR-942,6mer
+1920,ZNF337,hsa-miR-942,6mer
+1921,ZNF337,hsa-miR-219a,6mer
+1922,ZNF337,hsa-miR-4708,6mer
+1923,ZNF337,hsa-miR-3175,8mer
+1924,ZNF337,hsa-miR-3175,7mer-m8
+1925,ZNF337,hsa-miR-3175,6mer
+1926,ZNHIT2,hsa-miR-8072,7mer-m8
+1927,ZNHIT2,hsa-miR-8072,6mer
+1928,ZNHIT2,hsa-miR-8072,6mer
+1929,ZNHIT2,hsa-miR-8072,g-bulged 6mer
+1930,ZNHIT2,hsa-miR-484,7mer-m8
+1931,ZNHIT2,hsa-miR-484,7mer-a1
+1932,ZNHIT2,hsa-miR-942,8mer
+1933,ZNHIT2,hsa-miR-4708,g-bulged 6mer
+1934,ZNHIT2,hsa-miR-3175,g-bulged 7mer
